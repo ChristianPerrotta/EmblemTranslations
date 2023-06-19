@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Emblem Translations</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+    <!-- Banner -->
+    <div id="banner" class="container my-4">
+        <h1>Emblem Translations</h1>
+    </div>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
+            <!-- Links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="./20th-anniversary.html">20th Anniversary</a>
+                </li>
+            </ul>
+    </nav>
+    
+    <!-- Main Body starts here -->
+    <div class="container mt-4">
+        <p>
+            Use the dropdown menus below to choose a section to read. Some sections also include subsections. 
+            You can navigate through the pages using the NEXT and PREVIOUS buttons, as well as moving the slider.
+        </p>
+    </div>
+
+    <!-- Section form -->
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="form-floating">
+                    <select class="form-select" id="section" name="sectionlist" onchange="changedSection(this.value)">
+                      <option value="frontmatter">Front Matter</option>
+                      <option value="msgAndIllust">Message & Illustration</option>
+                      <option value="history">Fire Emblem History</option>
+                      <option value="worldGuide">World Guide</option>
+                      <option value="gallery">Gallery & Interview</option>
+                      <option value="column">Column</option>
+                      <option value="backmatter">Back Matter</option>
+                    </select>
+                    <label for="sectionlist" class="form-label">Choose a section:</label>
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-floating">
+                    <select class="form-select" id="subsection" name="subsectionlist" 
+                    onchange="changedSubsection(this.value)" disabled>
+                      <option>---</option>
+                    </select>
+                    <label for="subsectionlist" class="form-label">Choose a subsection:</label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="displayRadios" id="displayLeftRight" 
+            value="leftRight" checked onchange="changedRadios()">
+            <label class="form-check-label" for="displayLeftRight">
+                Left-Right
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="displayRadios" id="displayTopBottom"
+             value="topBottom" onchange="changedRadios()">
+            <label class="form-check-label" for="displayTopBottom">
+                Top-Bottom
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="displayRadios" id="displayInter" 
+            value="intercalated" onchange="changedRadios()">
+            <label class="form-check-label" for="displayInter">
+                Intercalated
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="displayRadios" id="displayEnglish" 
+            value="english" onchange="changedRadios()">
+            <label class="form-check-label" for="displayEnglish">
+                English Only
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="displayRadios" id="displayJapanese" 
+            value="japanese" onchange="changedRadios()">
+            <label class="form-check-label" for="displayJapanese">
+                Japanese Only
+            </label>
+        </div>
+    </div>
+
+    <!-- Main Body -->
+    <div class="container mt-4" id="main-text">
+        <div class="row">
+            <h3 class="col">Nintendo Official Guidebook</h3>
+            <h3 class="col">任天堂公式ガイドブック</h3>
+        </div>
+        <div class="row">
+            <h2 class="col">20th Anniversary</h2>
+            <h2 class="col">20th Anniversary</h2>
+        </div>
+        <div class="row">
+            <h1 class="col">Fire Emblem Encyclopedia</h3>
+            <h1 class="col">ファイアエムブレム大全</h3>
+        </div>
+        <div class="row">
+            <p class="col">Nintendo</p>
+            <p class="col">Nintendo</p>
+        </div>
+        <div class="row">
+            <p class="col">Shougakukan [publisher]</p>
+            <p class="col">小学館</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="input-group justify-content-center">
+            <button type="button" class="btn btn-primary" onclick="toPreviousPage()">Previous</button>
+            <span class="input-group-text" id="pagination">Cover Page</span>
+            <button type="button" class="btn btn-primary" onclick="toNextPage()">Next</button>
+        </div>
+        <input type="range" class="form-range" id="page-range" 
+        min="0" max="241" value="0" onchange="changedRange(this.value)" oninput="setPageSpan(this.value)">
+    </div>
+    
+    <script src="./20th-anniversary-text.js"></script>
+    <script src="./20th-anniversary-script.js"></script>
+</body>
+</html>
