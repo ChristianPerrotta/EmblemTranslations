@@ -487,21 +487,361 @@ const book20th = [
     [
         [
             "p",
-            "",
-            ""
+            "Congratulations on the 20th anniversary of Fire Emblem!",
+            "ファイアーエムブレム２０周年おめでとうございます！"
+        ],
+        [
+            "p",
+            `I had the opportunity to work on a manga called "Hasha no Tsurugi," set in the continent of Elibe. I have fond memories of the intense meetings we had in Kyoto... (laughs)`,
+            "僕はエレブ大陸を舞台とした『覇者の剣』という漫画を担当させていただきました。京都での白熱したミーティングがなつかしい…（笑）"
+        ],
+        [
+            "p",
+            "The creators and fans have been nurturing and continuing to develop it with great care, passion, and affection even now.",
+            "制作の方々とファンとが大切に、熱く、愛情をもって今も育て続けている"
+        ],
+        [
+            "p",
+            "I truly think it's an amazing work. I'm grateful to have been able to grow as a manga artist myself through its influence.",
+            "本当にすばらしい作品だなと思います。自分自身漫画描きしても成長させていただき、感謝しております。"
+        ],
+        [
+            "p",
+            "I'm looking forward to the release of the new easy-to-play simulation game!",
+            "手軽いシミュレーションの新作、楽しみにしています！"
+        ],
+        [
+            "h3",
+            "Yamada Koutarou",
+            "山田孝太郎"
+        ],
+        [
+            "p",
+            `Born in Nagano Prefecture in 1980, he made his manga debut in Monthly Shonen Jump. He serialized "Fire Emblem: Hasha no Tsurugi" in the same magazine from November 2001 to July 2005. His popular work gained attention for its delicately drawn characters and powerful combat scenes. Currently, he is serializing "The Sacred Blacksmith" in Monthly Comic Alive.`,
+            "1980年長野県生まれ。月刊少年ジャンプで漫画家デビュー。同誌で『ファイアーエムブレム覇者の剣』を連載（2001年11月～2005年7月）。繊細な筆致で描かれるキャラクターと、迫力溢れる戦闘シーンで人気を集める。現在は、月刊コミックアライブにて『聖剣の刀鍛治』を連載中。"
         ]
     ],
     //page 9
     [
         [
-
+            "h1",
+            "Fire Emblem History",
+            "ファイアーエムブレム　ヒストリー"
         ]
     ],
     //page 10
     [
         [
-
-        ]
+            "h2",
+            "FIRE EMBLEM HISTORY",
+            "FIRE EMBLEM HISTORY"
+        ],
+        [
+            "p",
+            `Let's take a look back at the 20-year journey of the "Fire Emblem" series, which has produced numerous masterpieces, alongside the history of Nintendo's gaming legacy.`,
+            "数々の名作を生んできた『ファイアーエムブレム』シリーズ。その20年に渡る軌跡を任天堂のゲーム史とともに振り返ってみよう。"
+        ],
+        [
+            "p",
+            "1980",
+            "1980年"
+        ],
+        [
+            "p",
+            `・"Game & Watch" released.`,
+            "・『ゲーム＆ウォッチ』発売。"
+        ],
+        [
+            "p",
+            "1983",
+            "1983年"
+        ],
+        [
+            "p",
+            `・"Famicom" (Family Computer) released.`,
+            "・『ファミリーコンピュータ』発売。"
+        ],
+        [
+            "p",
+            "1986",
+            "1986年"
+        ],
+        [
+            "p",
+            `・"Famicom Disk System" released.`,
+            "・『ファミリーコンピュータディスクシステム』発売。"
+        ],
+        [
+            "p",
+            "1989",
+            "1989年"
+        ],
+        [
+            "p",
+            `・"Game Boy" released.`,
+            "・『ゲームボーイ』発売。"
+        ],
+        [
+            "p",
+            "1990",
+            "1990年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Shadow Dragon and the Blade of Light" released.`,
+            "・『ファイアーエムブレム　暗黒竜と光の剣』発売。"
+        ],
+        [
+            "p",
+            `・"Super Famicom" released.`,
+            "・『スーパーファミコン』発売。"
+        ],
+        [
+            "p",
+            "1992",
+            "1992年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Gaiden" released.`,
+            "・『ファイアーエムブレム　外伝』発売。"
+        ],
+        [
+            "p",
+            "1994",
+            "1994年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Mystery of the Emblem" released.`,
+            "・『ファイアーエムブレム　紋章の謎』発売。"
+        ],
+        [
+            "p",
+            "1995",
+            "1995年"
+        ],
+        [
+            "p",
+            `・"Virtual Boy" released.`,
+            "・『バーチャルボーイ』発売。"
+        ],
+        [
+            "p",
+            `・"Satellaview" peripheral for the Super Famicom released.`,
+            "・スーパーファミコン周辺機器『サテラビュー』発売。"
+        ],
+        [
+            "p",
+            "1996",
+            "1996年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Genealogy of the Holy War" released.`,
+            "・『ファイアーエムブレム　聖戦の系譜』発売。"
+        ],
+        [
+            "p",
+            `・"Nintendo 64" released.`,
+            "・『NINTENDO64』発売。"
+        ],
+        [
+            "p",
+            `・"Game Boy Advance" released.`,
+            "・『ゲームボーイポケット』発売。"
+        ],
+        [
+            "p",
+            "1997",
+            "1997年"
+        ],
+        [
+            "p",
+            `・"Nintendo Power" cartridge writing service released.`,
+            "・書き換えサービス『ニンテンドーパワー』発売。"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: BS Archanea Saga" begins distribution.`,
+            "・『ファイアーエムブレム　BSアカネイア戦記編』配信開始。"
+        ],
+        [
+            "p",
+            "1998",
+            "1998年"
+        ],
+        [
+            "p",
+            `・
+            "Game Boy Lite" and "Game Boy Color" released.`,
+            "・『ゲームボーイライト』『ゲームボーイカラー』発売。"
+        ],
+        [
+            "p",
+            "1999",
+            "1999年"
+        ],
+        [
+            "p",
+            `・"Nintendo 64" peripheral, "64DD", released.`,
+            "・『NINTENDO64』周辺機器、『64DD』発売。"
+        ],
+        [
+            "p",
+            `・Cartridge writing of "Fire Emblem: Thracia 776" begins.`,
+            "・『ファイアーエムブレム　トラキア776』書き換え開始。"
+        ],
+        [
+            "p",
+            "2000",
+            "2000年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Thracia 776" released.`,
+            "・『ファイアーエムブレム　トラキア776』発売。"
+        ],
+        [
+            "p",
+            "2001",
+            "2001年"
+        ],
+        [
+            "p",
+            `・"Game Boy Advance" released.`,
+            "・『ゲームボーイアドバンス』発売。"
+        ],
+        [
+            "p",
+            `・"Nintendo Game Cube" released.`,
+            "・『ニンテンドーゲームキューブ』発売。"
+        ],
+        [
+            "p",
+            `・Marth and Roy join the roster of "Super Smash Bros. Melee".`,
+            "・『大乱闘スマッシュブラザーズDX』にマルスとロイが参戦。"
+        ],
+        [
+            "p",
+            "2002",
+            "2002年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: the Binding Blade" released.`,
+            "・『ファイアーエムブレム　封印の剣』発売。"
+        ],
+        [
+            "p",
+            "2003",
+            "2003年"
+        ],
+        [
+            "p",
+            `・"Game Boy Advance SP" released.`,
+            "・『ゲームボーイアドバンスSP』発売。"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: the Blazing Blade" released.`,
+            "・『ファイアーエムブレム　烈火の剣』発売。"
+        ],
+        [
+            "p",
+            "2004",
+            "2004年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: the Sacred Stones" released.`,
+            "・『ファイアーエムブレム　聖魔の光石』発売。"
+        ],
+        [
+            "p",
+            `・"Nintendo DS" released.`,
+            "・『ニンテンドーDS』発売。"
+        ],
+        [
+            "p",
+            "2005",
+            "2005年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Path of Radiance" released.`,
+            "・『ファイアーエムブレム　蒼炎の軌跡』発売。"
+        ],
+        [
+            "p",
+            `・"Game Boy Micro" released.`,
+            "・『ゲームボーイミクロ』発売。"
+        ],
+        [
+            "p",
+            "2006",
+            "2006年"
+        ],
+        [
+            "p",
+            `・"Nintendo DS Lite" released.`,
+            "・『ニンテンドーDS Lite』発売。"
+        ],
+        [
+            "p",
+            `・"Wii" released.`,
+            "・『Wii』発売。"
+        ],
+        [
+            "p",
+            "2007",
+            "2007年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Radiant Dawn" released.`,
+            "・『ファイアーエムブレム　暁の女神』発売。"
+        ],
+        [
+            "p",
+            "2008",
+            "2008年"
+        ],
+        [
+            "p",
+            `・Marth and Ike join the roster of "Super Smash Bros. Brawl"`,
+            "・『大乱闘スマッシュブラザーズＸ』にマルスとアイクが参戦。"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: Shadow Dragon" released.`,
+            "・『ファイアーエムブレム　新・暗黒竜と光の剣』発売。"
+        ],
+        [
+            "p",
+            `・"Nintendo DSi" released.`,
+            "・『ニンテンドーDSi』発売。"
+        ],
+        [
+            "p",
+            "2009",
+            "2009年"
+        ],
+        [
+            "p",
+            `・"Nintendo DSi LL" released.`,
+            "・『ニンテンドーDSi LL』発売。"
+        ],
+        [
+            "p",
+            "2010",
+            "2010年"
+        ],
+        [
+            "p",
+            `・"Fire Emblem: New Mystery of the Emblem" released.`,
+            "・『ファイアーエムブレム　新・紋章の謎～光と影の英雄～』発売。"
+        ],
     ],
     //page 11
     [
