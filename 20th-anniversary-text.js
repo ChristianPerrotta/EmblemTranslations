@@ -846,13 +846,158 @@ const book20th = [
     //page 11
     [
         [
-
+            "h1",
+            "Fire Emblem: Shadow Dragon and the Blade of Light",
+            "ファイアーエムブレム　暗黒竜と光の剣"
+        ],
+        [
+            "p",
+            "Release date: April 20th 1990.",
+            "発売日：1990年4月20日"
+        ],
+        [
+            "p",
+            "Famicom (Family Computer)",
+            "ファミリーコンピュータ"
+        ],
+        [
+            "h2",
+            "The landmark first installment of the series!",
+            "記念すべきシリーズ第１作！"
+        ],
+        [
+            "p",
+            `The first installment of the series depicted the battle between Marth, the prince of Altea, and the dark dragon Medeus. It combined the strategic gameplay of the strategy simulation genre (SLG) with an epic RPG storyline. Moreover, it introduced character development to units that were previously mere "pieces" in traditional SLGs, establishing the new genre of "Simulation RPG."`,
+            "アリティアの王子マルスと、暗黒竜メディウスの戦いを描いたシリーズ第１作。SLG（シミュレーションゲーム）の戦略性に、RPGの壮大なストーリーを追加。さらに、それまでのSLGでは単なる“駒”にすぎなかったユニットにキャラクター性を持たせ、「シミュレーションRPG」という新ジャンルを確立した。"
+        ],
+        [
+            "p",
+            `The foundation of the series was largely established in this first installment, and the familiar system of "dead characters not being revived" was adopted from this game onwards.`,
+            "シリーズの基礎は、この第１作でほぼ完成しており、「死んだキャラクターは基本的に生き返らない」というおなじみのシステムも、本作から採用されている。"
+        ],
+        [
+            "p",
+            "⬆️Upon receiving news of the fall of Castle Talys, Marth raises an army. Everything started from there.",
+            "⬆️タリス城陥落の報せが届き、マルスが挙兵。すべてはここから始まった。"
+        ],
+        [
+            "p",
+            "⬆️The game incorporated many RPG elements such as unit conversations and leveling up.",
+            "⬆️ユニット同士の会話やレベルアップなど、RPG要素が多く盛り込まれた。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h1",
+            "Fire Emblem: Gaiden",
+            "ファイアーエムブレム　外伝"
+        ],
+        [
+            "p",
+            "Release date: March 14th 1992.",
+            "発売日：1992年3月14日"
+        ],
+        [
+            "p",
+            "Famicom (Family Computer)",
+            "ファミリーコンピュータ"
+        ],
+        [
+            "h2",
+            "An ambitious work that included numerous new systems.",
+            "新システムが多数盛り込まれた意欲作"
+        ],
+        [
+            "p",
+            `The second installment of the series depicted the battle between two protagonists, Alm and Celica, and the Rigel Empire, which worships the malevolent god Duma. While it retained the world setting of the previous game, "Shadow Dragon and the Blade of Light," the stage shifted to the Valencia continent, far away from the Archanea continent of the previous game.`,
+            "2人の主人公、アルムとセリカと、邪神ドーマを崇めるリゲル帝国との戦いを描いた、シリーズの第２作。前作『暗黒竜と光の剣』の世界観を踏襲しているが、舞台は異なり、前作のアカネイア大陸から遠く離れた、バレンシア大陸の戦いの舞台となっている。"
+        ],
+        [
+            "p",
+            `This installment, fittingly titled "Gaiden" (meaning "side story"), introduced various experimental features in terms of gameplay mechanics. It eliminated weapon durability and allowed certain classes to undergo class changes from advanced to basic (with a few exceptions). Additionally, it introduced a world map displayed between stages, allowing players to choose the progression route for the two protagonists. These elements significantly increased the game's freedom and intensified its RPG elements.`,
+            "本作は「外伝」の名にふさわしく、武器から「耐久力」がなくなったり、上級職から下級職へのクラスチェンジが可能（一部のクラスのみ）になったりと、システム面でもさまざまな試みがなされている。また、ステージ間には全体マップが表示され、２人の主人公の進軍ルートを選択できるようになった。これらの要素によって自由度が大幅に上昇し、RPG色がかなり濃くなっている。"
+        ],
+        [
+            "p",
+            "The intricate intertwining of the two protagonists' stories leading towards a climactic finale has been praised as one of the best in the series. Some even consider it the pinnacle of the series.",
+            "2人の主人公の物語が複雑に絡みつつクライマックスへと向かう展開は、「シリーズ随一」との声もある。"
+        ],
+        [
+            "p",
+            "⬆️The multi-layered story unfolds through the perspectives of the two protagonists, Alm and Celica.",
+            "⬆️アルムとセリカ、2人の主人公による重層的な物語が展開する。"
+        ],
+        [
+            "p",
+            `⬆️The introduction of the "Villager" class, which branches into various complex professions through class changes, expanded the strategic possibilities within the game.`,
+            "⬆️クラスチェンジで複雑の職業に分岐する「村人」が、戦略の幅を広げた。"
         ]
     ],
     //page 12
     [
         [
-
+            "h1",
+            "Fire Emblem: Mystery of the Emblem",
+            "ファイアーエムブレム　紋章の謎"
+        ],
+        [
+            "p",
+            "Release date: January 21st 1994.",
+            "発売日：1994年1月21日"
+        ],
+        [
+            "p",
+            "Super Famicom (SNES)",
+            "スーパーファミコン"
+        ],
+        [
+            "h2",
+            "A representative work that solidified its status as a masterpiece!",
+            "名作を不動のものにした代表作！"
+        ],
+        [
+            "p",
+            `The series took its first step into a two-part structure, featuring a remastered version of "Shadow Dragon and the Blade of Light" in the first part, and a new story depicting the subsequent battles of Marth and his allies in the second part. This allowed the series to not only retain its existing fanbase but also attract new players, ultimately cementing the popularity of the "Fire Emblem" series. In terms of gameplay mechanics, the introduction of the "Dancer" class, which allowed units to take an additional action after their turn, and the support system made their debut in this installment.`,
+            "シリーズ初の二部構成となり、第１部に『暗黒竜と光の剣』のリニューアル版、第２部にその後のマルスたちの戦いが描かれた新作を収録している。これにより、旧作からファンだけなく、新たなユーザーをも獲得し、『ファイアーエムブレム』シリーズの人気を決定づけた。システム面では、行動終了後のユニットを再行動可能にする「踊り子」や、支援効果システムが初登場した。"
+        ],
+        [
+            "p",
+            `⬅️The game unfolds a grand war epic, depicting two wars: the War of Shadows and the War of Heroes. Particularly in the second part, the truth behind the history of the Archanea continent, which was not revealed in "Shadow Dragon and the Blade of Light," is gradually unveiled.`,
+            "⬅️暗黒戦争、英雄戦争という２つの戦争を描いた本格戦記的物語が展開。とくに、第２部では『暗黒竜と光の剣』では語られなかったアカネイア大陸の歴史の真実が、次々と明らかになる。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h1",
+            "Fire Emblem: Genealogy of the Holy War",
+            "ファイアーエムブレム　聖戦の系譜"
+        ],
+        [
+            "p",
+            "Release date: May 14th 1996.",
+            "発売日：1996年5月14日"
+        ],
+        [
+            "p",
+            "Super Famicom (SNES)",
+            "スーパーファミコン"
+        ],
+        [
+            "h2",
+            "Epic story spanning across two generations.",
+            "親子二代に渡る壮大なストーリー"
+        ],
+        [
+            "p",
+            `The first half focuses on Sigurd, the prince of House Chalphy, while the second half centers around his son Seliph, unfolding a grand story spanning across two generations. In terms of gameplay mechanics, the introduction of the "Love System" allowed characters to fall in love, get married, and have children, which became highly popular. The addition of the "Skill System" brought more distinctiveness to each character's abilities. The familiar "Weapon Triangle" relationship, where certain weapons have advantages over others, also made its debut in this game.`,
+            "前半はシアルフィ家の公子シグルド、後半はその息子セリスを中心に、親子二代の壮大なストーリーが展開する。システム面では、キャラクター同士が恋に落ち、結婚して子どもを産むという「恋愛システム」が搭載され、人気を博した。また、「スキルシステム」の導入により、キャラクターの個性がより明確になった。シリーズおなじみの武器の「3すくみ」関係も、本作が初登場。"
+        ],
+        [
+            "p",
+            `⬅️Since it is a game centered around "love," when two characters are adjacent and have a relationship such as being married, in a romantic relationship, or siblings with the blood of holy warriors, they can unleash a powerful critical strike called a "Love Attack" during their attacks.`,
+            "⬅️“愛”のゲームであるので、夫婦や恋人、あるいは聖戦士の血を引く兄妹といった関係にある2人が隣接していると、攻撃時に必殺の一撃（通称“ラブアタック”）が繰り出されることもある。"
         ]
     ],
     //page 13
