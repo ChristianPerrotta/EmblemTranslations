@@ -1003,7 +1003,84 @@ const book20th = [
     //page 13
     [
         [
-
+            "h1",
+            "Fire Emblem: Thracia 776",
+            "ファイアーエムブレム　トラキア776"
+        ],
+        [
+            "p",
+            "Release date: September 1st 1999.",
+            "発売日：1999年9月1日"
+        ],
+        [
+            "p",
+            "Super Famicom (SNES)",
+            "スーパーファミコン"
+        ],
+        [
+            "h2",
+            "A challenging installment that ranks among the series' most difficult.",
+            "シリーズ屈指の難易度を誇る外伝"
+        ],
+        [
+            "p",
+            `This installment serves as a side story to the previous game, "Genealogy of the Holy War," focusing on Leif, the prince of Leonster, who rises up to liberate Thracia. Initially, it was released as a game for the Nintendo Power rewriting service, but later it was also released as a packaged version.`,
+            "前作『聖戦の系譜』の外伝的作品で、トラキア解放のために立ち上がった、レンスターの王子リーフにスポットを当てている。当初は、ゲーム書き換えサービス『ニンテンドーパワー』用ソフトとして登場するが、後後にパッケージ版ソフトとしても発売された。"
+        ],
+        [
+            "p",
+            `In terms of gameplay mechanics, the introduction of new commands such as "Capture" and "Rescue" expanded the strategic options significantly. It should be noted that this game is often praised as being one of the most challenging entries in the series, and its high difficulty level has become legendary among fans to this day.`,
+            "システム面では、「捕らえる」「かつぐ」などの新コマンドが登場。新コマンドの登場より、戦略の幅が大きく広がった。ちなみに、本作は「シリーズ屈指の難易度」と評されており、その難易度の高さは、いまなおファンの間で伝説となっだ。"
+        ],
+        [
+            "p",
+            `⬆️There is also a feature where you can receive the captured enemy unit's items. This system adds an important strategic element to the game, as acquiring the enemy's possessions can greatly impact your tactics and resource management.`,
+            "⬆️捕らえた敵ユニットの持ち物をもらえることもある。このシステムも、非常に重要な戦略のひとつだった。"
+        ],
+        [
+            "p",
+            `⬆️There are numerous characters in this game who have a deep connection with "Genealogy of the Holy War." For example, she makes her appearance starting from Chapter 1...`,
+            "⬆️本作には『聖戦の系譜』と関係の深い人物が数多く登場する。たとえば、第１章から登場する彼女も……。"
+        ],
+        [
+            "h1",
+            "Fire Emblem: the Binding Blade",
+            "ファイアーエムブレム　封印の剣"
+        ],
+        [
+            "p",
+            "Release date: March 29th 1999.",
+            "発売日：2002年3月29日"
+        ],
+        [
+            "p",
+            "Game Boy Advance",
+            "ゲームボーイアドバンス"
+        ],
+        [
+            "h2",
+            "The first installment of the series to be compatible with a handheld gaming console!",
+            "初の携帯ゲーム機対応作品！"
+        ],
+        [
+            "p",
+            `The stage is set in the Elibe continent, where humans and dragons once vied for supremacy. Suddenly, the eastern nation of Bern begins its invasion across the land. Roy, the legitimate son of House Pherae, a small force in the southern part of the continent, rises up with his companions to thwart Bern's invasion and protect their homeland.`,
+            "舞台は、かつて人と竜が覇権を争ったエレブ大陸。突如、東の大国ベルンが各地への侵略を開始。大陸南方の小勢力、フェリ家の嫡男ロイはベルンの侵略を阻止するために、仲間とともに立ち上がる。"
+        ],
+        [
+            "p",
+            `This game achieved "easy-to-play" gameplay, a characteristic of handheld gaming devices, with its simple system and excellent operability. It also introduced the "support conversation" system, where characters build trust through conversations with each other. The support conversations allowed players to discover unexpected sides of the characters and were well-received by fans.`,
+            "シンプルなシステムと抜群の操作性で、携帯ゲーム機の魅力である「手軽なプレイ」を実現した作品。また、キャラクター同士が会話することで信頼関係が築かれる「支援会話」システムを採用。支援会話ではキャラクターの意外な一面を見られ、ファンにも好評を博した。"
+        ],
+        [
+            "p",
+            `⬅️Due to Marquess Eliwood falling ill, his son Roy is tasked with leading the army of Pherae in his father's stead.`,
+            "⬅️フェレ候エリウッドが病に冒されているために、息子のロイが、父のかわりにフェレ軍を率いることになる。"
+        ],
+        [
+            "p",
+            `⬅️Thanks to support conversations, the backgrounds of each character are revealed, making them more distinctive and rich in personality.`,
+            "⬅️支援会話により、各キャラクターのバックボーンがわかるようになり、そのおかげで、どのキャラクターもより個性豊かなものとなった。"
         ]
     ],
     //page 14
