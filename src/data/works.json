@@ -1,0 +1,11 @@
+[
+    {
+        "id": "tr1-20thanniversaryencyclopaedia",
+        "title": "Fire Emblem 20th Anniversary Encyclopedia",
+        "img": "20th-book.jpg",
+        "alt": "Fire Emblem 20th Anniversary Encyclopedia cover",
+        "path": "/20th-anniversary",
+        "pages": 241,
+        "working": true
+    }
+]

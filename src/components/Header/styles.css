@@ -1,0 +1,7 @@
+#banner {
+    font-family: 'Aboreto';
+    font-size: 40px;
+    padding: 1em;
+    background-image: url('../../assets/bg1.jpg');
+    background-repeat: repeat;
+}
