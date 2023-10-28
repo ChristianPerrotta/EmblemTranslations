@@ -867,7 +867,7 @@ export const book20th = [
         ],
         [
             "p",
-            `The first installment of the series depicted the battle between Marth, the prince of Altea, and the dark dragon Medeus. It combined the strategic gameplay of the strategy simulation genre (SLG) with an epic RPG storyline. Moreover, it introduced character development to units that were previously mere "pieces" in traditional SLGs, establishing the new genre of "Simulation RPG."`,
+            `The first installment of the series depicted the battle between Marth, the prince of Altea, and the shadow dragon Medeus. It combined the strategic gameplay of the strategy simulation genre (SLG) with an epic RPG storyline. Moreover, it introduced character development to units that were previously mere "pieces" in traditional SLGs, establishing the new genre of "Simulation RPG."`,
             "アリティアの王子マルスと、暗黒竜メディウスの戦いを描いたシリーズ第１作。SLG（シミュレーションゲーム）の戦略性に、RPGの壮大なストーリーを追加。さらに、それまでのSLGでは単なる“駒”にすぎなかったユニットにキャラクター性を持たせ、「シミュレーションRPG」という新ジャンルを確立した。"
         ],
         [
@@ -1483,236 +1483,428 @@ export const book20th = [
     [
         [
             "h2",
-            ``,
+            `Archanea Chronology`,
             "アカネイア暦年表"
         ],
         [
+            "hr"
+        ],
+        [
             "h3",
-            ``,
+            `Age of Myth and Legend`,
             "神話・伝説の時代"
         ],
         [
             "h4",
-            ``,
+            `Around 4000 years before`,
             "前4000年頃"
         ],
         [
             "p",
-            ``,
+            `・The Dragon Tribe establishes civilization on the continent of Archanea.`,
             "・竜族、アカネイア大陸に文明を築く。"
         ],
         [
             "h4",
-            ``,
+            `Around 1000 years before`,
             "前1000年頃"
         ],
         [
             "p",
-            ``,
+            `・The Dragon Tribe shows signs of degeneration. To suppress their transformation into beasts, they seal their power within dragonstones.`,
             "・竜族に退化の兆候。竜石に力を封じることで、獣化を抑制する。"
         ],
         [
             "h4",
-            ``,
+            `Around 740 years before`,
             "前740年頃"
         ],
         [
             "p",
-            ``,
+            `・By the Earth Dragon Tribe, humanity faces a crisis of extinction.`,
             "・地竜族により、人類が滅亡の危機にさらされる。"
         ],
         [
             "p",
-            ``,
+            `・The Divine Dragon King Naga seals the Earth Dragon Tribe at the Dragon's Altar. Naga instructs Medeus to guard the Dragon's Altar.`,
             "・神竜王ナーガ、竜の祭壇に地竜族を封印。メディウスに竜の祭壇の守りを命じる。"
         ],
         [
             "h4",
-            ``,
+            `Around 500 years before`,
             "前500年頃"
         ],
         [
             "p",
-            ``,
+            `・The Divine Dragon King Naga passes away, leaving behind the Binding Shield and the divine sword Falchion.`,
             "・神竜王ナーガ、封印の盾と神剣ファルシオンを残して没する。"
         ],
         [
+            "hr"
+        ],
+        [
             "h3",
-            ``,
+            `War of Liberation`,
             "解放戦争"
         ],
         [
             "h4",
-            ``,
+            `The first year`,
             "元年"
         ],
         [
             "p",
-            ``,
+            `・Adrah the First establishes the Holy Kingdom of Archanea.`,
             "・アドラ１世、アカネイア聖王国を建国。"
         ],
         [
             "h4",
-            ``,
+            `Year of 493`,
             "493年"
         ],
         [
             "p",
-            ``,
+            `・The Dolhr Empire, led by Medeus, attacks the Holy Kingdom of Archanea. Dolhr conquers the Holy Kingdom of Archanea, marking the beginning of the rule of dragonkin.`,
             "・メディウス率いるドルーア帝国、アカネイア聖王国を襲撃。ドルーアはアカネイア聖王国を滅ぼし、竜人支配が始まる。"
         ],
         [
             "p",
-            ``,
-            "アカネイアの王女アルテミスが、地方都市アリティアへ落ちのびていたことが判明。アルテミスを象徴に、解放軍が組織される。"
+            `・It is revealed that Princess Artemis of Archanea had escaped to the provincial city of Altea. The Liberation Army is organized with Artemis as its symbol.`,
+            "・アカネイアの王女アルテミスが、地方都市アリティアへ落ちのびていたことが判明。アルテミスを象徴に、解放軍が組織される。"
         ],
         [
             "p",
-            ``,
-            "解放軍のリーダー・カルタス伯爵、アルテミス王女よりファイアーエムブレムを託される。"
+            `・The leader of the Liberation Army, Duke Caldas, is entrusted with the Fire Emblem by Princess Artemis.`,
+            "・解放軍のリーダー・カルタス伯爵、アルテミス王女よりファイアーエムブレムを託される。"
         ],
         [
             "h4",
-            ``,
+            `Year of 498`,
             "498年"
         ],
         [
             "p",
-            ``,
+            `・In his adventurous journey, Anri of Altea acquires the divine sword Falchion. With it, he defeats Medeus.`,
             "・アリティアのアンリ、冒険行の末に神剣ファルシオンを入手。これをもってメディウスを倒す。"
         ],
         [
             "p",
-            ``,
+            `・The restoration of the Holy Kingdom of Archanea. Duke Caldas marries Princess Artemis and becomes the king of Archanea.`,
             "・アカネイア聖王国復興。カルタス伯爵、アルテミス王女と婚姻し、アカネイアの王となる。"
         ],
         [
             "h4",
-            ``,
+            `Year of 499`,
             "499年"
         ],
         [
             "p",
-            ``,
+            `・Aurelis is founded by Count Marlon, the brother of Caldas.`,
             "・カルタスの弟マーロン伯により、オレルアン建国。"
         ],
         [
             "h4",
-            ``,
+            `Year of 500`,
             "500年"
         ],
         [
             "p",
-            ``,
+            `・The founding of Altea. Anri is welcomed as the first king of the country.`,
             "・アリティア建国。初代国王にはアンリが迎えられる。"
         ],
         [
             "h4",
-            ``,
+            `Year of 501`,
             "501年"
         ],
         [
             "p",
-            ``,
+            `・Grust is founded by Ordwin.`,
             "・オードウィンにより、グルニア建国。"
         ],
         [
             "h4",
-            ``,
+            `Year of 503`,
             "503年"
         ],
         [
             "p",
-            ``,
+            `・Macedon is founded. Iote is welcomed as the first king of the country.`,
             "・マケドニア建国。初代国王にはアイオテが迎えられる。"
         ],
         [
             "h4",
-            ``,
+            `Year of 537`,
             "537年"
         ],
         [
             "p",
-            ``,
+            `・Anri passes away. As a result of the inheritance dispute, Gra separates and becomes independent from Altea.`,
             "・アンリ死去。相続争いの結果、グラがアリティアから分離独立。"
         ],
         [
             "h4",
-            ``,
+            `Year of 550`,
             "550年"
         ],
         [
             "p",
-            ``,
+            `・The Archsage Gotoh opens the College Arcane in Khadein.`,
             "・大賢者ガトー、カダインに魔導学院を開く。"
         ],
         [
             "h4",
-            ``,
+            `Year of 579`,
             "579年"
         ],
         [
             "p",
-            ``,
+            `・Talys is founded. The Seven Kingdoms are established.`,
             "・タリス建国。七王国の成立。"
         ],
         [
+            "hr"
+        ],
+        [
             "h3",
-            ``,
+            `War of Shadows`,
             "暗黒戦争"
         ],
         [
             "h4",
-            ``,
+            `Year of 597`,
             "597年"
         ],
         [
             "p",
-            ``,
+            `・The resurrected Medeus gathers Manaketes once again for the Dolhr Empire.`,
             "・復活したメディウス、再びドルーア帝国にマムクートを集める。"
         ],
         [
             "h4",
-            ``,
+            `Year of 598`,
             "598年"
         ],
         [
             "p",
-            ``,
+            `・Grust aligns with Macedon and Dolhr. The Dolhr Empire is revived.`,
             "・グルニア、マケドニア、ドルーアに与する。ドルーア帝国再興。"
         ],
         [
             "h4",
-            ``,
+            `Year of 600`,
             "600年"
         ],
         [
             "p",
-            ``,
+            `・The Dolhr Empire initiates an invasion of the Holy Kingdom of Archanea. The War of Shadows begins.`,
             "・ドルーア帝国、アカネイア聖王国への侵攻開始。暗黒戦争の勃発。"
         ],
         [
             "h4",
-            ``,
+            `Year of 602`,
             "602年"
         ],
         [
             "p",
-            ``,
+            `・The Dolhr Empire's army surrounds the Archanea capital, Pales. King Cornelius of Altea, who went to the aid of Pales, is betrayed by King Jiol of Gra and dies in battle.`,
             "・ドルーア帝国軍、アカネイア王都パレスを包囲。パレスへの救援に向かったアリティア王コーネリアス、グラ王ジオルの裏切りにあって敗死。"
         ],
         [
             "p",
-            ``,
+            `・The Gra army invades Altea. Prince Marth of Altea flees to Talys.`,
             "・アリティアにグラ軍が侵攻。アリティアのマルス王子、タリスへ落ちのびる。"
         ],
         [
             "p",
-            ``,
+            `・The capital of Archanea, Pales, falls.`,
             "・アカネイアの王都パレス陥落。"
-        ]
+        ],
+        [
+            "h4",
+            `Year of 604`,
+            "604年"
+        ],
+        [
+            "p",
+            `・Princess Nina of Archanea escapes to Aurelis with the guidance of Camus.`,
+            "・アカネイアの王女ニーナ、カミュの手引きにより、オレルアンへ落ちのびる。"
+        ],
+        [
+            "p",
+            `・Princess Nyna issues a call to arms for the downfall of Dolhr in Aurelis. Prince Marth raises an army in Talys.`,
+            "・ニーナ王女、オレルアンにてドルーア打倒の檄を飛ばす。マルス王子、タリスにて挙兵。"
+        ],
+        [
+            "p",
+            `・Prince Marth pays his respects to Princess Nyna in Aurelis and is entrusted with the Fire Emblem.`,
+            "・マルス王子、オレルアンにてニーナ王女に拝謁。ファイアーエムブレムを託する。"
+        ],
+        [
+            "p",
+            `・The League, led by Marth, liberates the capital of Archanea, Pales.`,
+            "・マルス率いる同盟軍、アカネイアの王都パレスを解放。"
+        ],
+        [
+            "p",
+            `・The League conquers Gra. Marth avenges his father by defeating Jiol, his enemy.`,
+            "・同盟軍がグラを制圧。マルス、父の敵であるジオルを討つ。"
+        ],
+        [
+            "p",
+            `・The League liberates Altea. It also conquers Grust and Macedon.`,
+            "・同盟軍、アリティアを解放。グルニア、マケドニアを制圧。"
+        ],
+        [
+            "p",
+            `・Marth defeats Gharnef and reclaims the divine sword Falchion.`,
+            "・マルス、ガーネフを打倒し、神剣ファルシオンを取り戻す。"
+        ],
+        [
+            "h4",
+            `Year of 605`,
+            "605年"
+        ],
+        [
+            "p",
+            `・Marth, wielding the divine sword Falchion, slays Medeus. With the loss of Medeus, the Dolhr Empire disintegrates, bringing an end to the War of Shadows.`,
+            "・マルス、神剣ファルシオンを手にメディウスを討つ。メディウスを失い、ドルーア帝国は瓦解。暗黒戦争が終結する。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            `Establishment of The Holy Empire`,
+            "神聖帝国成立"
+        ],
+        [
+            "h4",
+            `Year of 606`,
+            "606年"
+        ],
+        [
+            "p",
+            `・Prince Hardin of Aurelis marries Princess Nyna and becomes the king of Archanea.`,
+            "・オレルアンの王弟ハーディン、ニーナ王女と婚姻し、アカネイアの王となる。"
+        ],
+        [
+            "p",
+            `・Hardin changes the name of Archanea to the "Holy Empire of Archanea" and begins to refer to himself as Emperor.`,
+            "・ハーディン、アカネイアの国号を「アカネイア神聖帝国」に改め、自らを皇帝と称するようになる。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            `Valencia Uprising`,
+            "バレンシア動乱"
+        ],
+        [
+            "h4",
+            `Year of 606`,
+            "606年"
+        ],
+        [
+            "p",
+            `・The three Pegasus sisters cross to the continent of Valencia and become involved in the upheaval between the two kingdoms of Zofia and Rigel.`,
+            "・ペガサス三姉妹、バレンシア大陸に渡り、ソフィア・リゲルの２王国による動乱に巻きこまれる。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            `War of Heroes`,
+            "英雄戦争"
+        ],
+        [
+            "h4",
+            `Year of 607`,
+            "607年"
+        ],
+        [
+            "p",
+            `・Marth, under the orders of Hardin, marches out to suppress the rebellion in Grust.`,
+            "・マルス、ハーディンの命によって、グルニアの反乱討伐へ出征。"
+        ],
+        [
+            "p",
+            `・Marth protects Prince Jubelo and Princess Yuliya of Grust.`,
+            "・マルス、グルニアの王子ユベロ、王女ユミナを庇護。"
+        ],
+        [
+            "p",
+            `・The Holy Empire of Archanea's army conquers Altea.`,
+            "・アカネイア神聖帝国軍、アリティアを制圧。"
+        ],
+        [
+            "p",
+            `・The League led by Marth defeats General Lang and liberates Grust.`,
+            "・マルス率いる同盟軍、ラング将軍を討ち、グルニアを解放。"
+        ],
+        [
+            "p",
+            `・At the Chiasmir Bridge, Marth's League clashes with Hardin's Archanean army. Marth escapes to Khadein.`,
+            "・カシミア大橋にて、マルスの同盟軍とハーディンのアカネイア軍が激突。マルス、カダインへと逃れる。"
+        ],
+        [
+            "p",
+            `・Marth follows "Anri's Way."`,
+            "・マルス、「アンリの道」をたどる。"
+        ],
+        [
+            "p",
+            `・Marth advances to Altea and reclaims his homeland from the Archanean forces.`,
+            "・マルス、アリティアへ進軍し、アカネイア軍より祖国を奪還する。"
+        ],
+        [
+            "p",
+            `・Marth advances to Gra and conquers it.`,
+            "・マルス、グラへ進軍し制圧。"
+        ],
+        [
+            "p",
+            `・Marth clashes with the elite Wolfguard of Aurelis at Adria Pass and repels them.`,
+            "・マルス、アドリア峠にて、オレルアンの精鋭・狼騎士団と激突。これを撃退。"
+        ],
+        [
+            "h4",
+            `Year of 608`,
+            "608年"
+        ],
+        [
+            "p",
+            `・Marth engages in a decisive battle with Hardin at the Imperial Palace and releases Hardin from the influence of the Darksphere.`,
+            "・マルス、帝都パレスにて、ハーディンと決戦。闇のオーブよりハーディンを解放する。"
+        ],
+        [
+            "p",
+            `Obtaining the Darksphere held by Hardin completes the Binding Shield.`,
+            "・ハーディンの持っていた闇のオーブを得たことで、封印の盾が完成。"
+        ],
+        [
+            "p",
+            `・The League led by Marth defeats Gharnef at the Dragon's Table.`,
+            "・マルス率いる同盟軍、竜の祭壇にてガーネフを撃破。"
+        ],
         
-
+        [
+            "p",
+            `・Marth, at the innermost sanctum of the Dragon's Table, engages in a final battle with the Shadow Dragon Medeus. With the divine sword Falchion and the completed Binding Shield in hand, he defeats Medeus.`,
+            "・マルス、竜の祭壇の最奥にて、暗黒竜と化したメディウスと決戦。神剣ファルシオンと、完成した封印の盾を手に、これを撃破。"
+        ],
+        [
+            "h4",
+            `Year of 609`,
+            "609年"
+        ],
+        [
+            "p",
+            `・Marth is entrusted with the rule of the Seven Kingdoms. The Archanean Alliance is formed.`,
+            "・マルス、七王国の統治を委ねられる。アカネイア連合王国の成立。"
+        ]
     ],
     //page 20
     [

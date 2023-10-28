@@ -7,7 +7,7 @@ export function HomePage() {
 
     // ------------------- RETURN -------------------
     return (
-        <div className="container mt-4">
+        <div className="container mt-4 mb-4">
             <img src={PetraStudying} className="img-fluid d-block mx-auto float-sm-start" alt="Petra studying." width="200px" />      
             <h2 className="text-center">Welcome to Emblem Translations!</h2>
             <p>
