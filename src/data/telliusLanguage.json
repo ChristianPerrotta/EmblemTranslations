@@ -1,0 +1,52 @@
+{
+    "lesson1": {
+        "letters": ["l", "i", "t"],
+        "words": ["lit", "tilt", "till", "it", "ill"],
+        "names": []
+    },
+    "lesson2": {
+        "letters": ["e", "a"],
+        "words": ["late", "lite", "tail", "tile", "tale", "teal", "elite", "all", "tall", "ate", "tea", "let", "eel", "lie", "tie", "ale"],
+        "names": []
+    },
+    "lesson3": {
+        "letters": ["o", "n", "s"],
+        "words": ["stone", "lion", "silt", "sane", "lost", "snail", "silent", "nest", "sail", "salon", "onion", "noise"],
+        "names": ["Titania", "Ena", "Naesala", "Nolan", "Leanne"]
+    },
+    "lesson4": {
+        "letters": ["h", "r", "u"],
+        "words": ["hurt", "run", "her", "hour", "tear", "lure", "rain", "iron", "roar", "air", "inert", "rein", "hear"],
+        "names": ["Shinon", "Soren", "Lethe", "Sothe", "Tanith", "Tauroneo", "Haar", "Nasir", "Laura", "Aran", "Nailah", "Heather", "Lehran"]
+    },
+    "lesson5": {
+        "letters": ["d", "c", "m"],
+        "words": ["clam", "cod", "mat", "old", "doc", "mad", "cat", "arm", "car", "lid", "maid", "dam", "arc", "acid", "cold", "cord", "mild", "acidic", "radial", "discard", "claim", "dial", "duct", "maid"],
+        "names": ["Oscar", "Mia", "Mist", "Marcia", "Mordecai", "Astrid", "Tormod", "Muarim", "Calill", "Lucia", "Elincia", "Micaiah", "Leonardo", "Nealuchi"]
+    },
+    "lesson6": {
+        "letters": ["f", "w", "y"],
+        "words": ["fly", "wide", "your", "fish", "swim", "wait", "fury", "draw", "fuel", "wind", "wrist", "daisy", "lawyer", "frost", "hurry", "frown", "flour", "swift", "dwarf", "fruit", "clay", "dawn", "leaf", "lawn"],
+        "names": ["Rhys", "Ilyana", "Rolf", "Stefan", "Reyson", "Ranulf", "Edward", "Fiona", "Rafiel", "Lyre"]
+    },
+    "lesson7": {
+        "letters": ["p", "b", "g"],
+        "words": ["big", "bag", "lap", "bat", "gap", "lip", "tap", "pig", "tip", "tab", "bolt", "flag", "gain", "grab", "gold", "lamp", "spin", "pilot", "harp", "snip", "drag", "trap", "burn", "club", "frog", "plug", "bold", "path", "bolt", "slap", "sugar", "plum", "grain", "bump", "grip", "palm", "glad", "bright", "pound", "band"],
+        "names": ["Boyd", "Gatrie", "Nephenee", "Brom", "Bastian", "Geoffrey", "Largo", "Tibarn", "Giffca", "Meg", "Sigrun", "Pelleas", "Caineghis", "Renning", "Gareth", "Sephiran", "beorc"]
+    },
+    "lesson8": {
+        "letters": ["v", "k", "j"],
+        "words": ["jive", "lake", "vast", "disk", "hike", "jolt", "rake", "jaw", "jumper", "lark", "kite", "live", "oval", "skip", "bake", "jacket", "peak", "jive", "jungle", "keen", "view", "vase", "milk", "jump", "vivid", "jockey", "diver", "snake", "kiwi", "bike", "joystick", "lava", "skin", "vine", "fork", "hive", "keel", "vacation", "glove"],
+        "names": ["Ike", "Volke", "Kieran", "Jill", "Makalov", "Devdan", "Janaff", "Ulki", "Volug", "Vika", "Danved", "Kyza", "Skrimir", "Sanaki", "Oliver", "Kurthnaga"]
+    },
+    "lesson9": {
+        "letters": ["x", "q", "z"],
+        "words": ["quiz", "box", "zero", "quartz", "maximum", "oxidize", "zebra", "excuse", "quicker", "zipper", "extras", "xerox", "sizzle", "squeeze", "fuzzy", "quench", "zing", "xylophone", "quorum", "zoom", "luxury", "quilt", "wax", "laziness", "zeal"],
+        "names": ["Zihark", "laguz"]
+    },
+    "lesson10": {
+        "letters": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+        "words": [],
+        "names": []
+    }
+}

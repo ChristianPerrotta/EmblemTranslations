@@ -474,7 +474,7 @@ export const book20th = [
         ],
         [
             "h3",
-            "Ogaki Chika",
+            "Chika Ogaki",
             "おがきちか"
         ],
         [
@@ -1909,16 +1909,137 @@ export const book20th = [
     //page 20
     [
         [
+            "h1",
+            `Age of Myth and Legend`,
+            "神話・伝説の時代"
+        ],
+        [
+            "h2",
+            `Ancient times, the age of myths`,
+            "太古の昔　神話の時代"
+        ],
+        [
             "p",
-            `[not done yet]`,
-            ""
+            `Thousands to tens of thousands of years ago, the Dragon Tribe is said to have appeared on the continent of Archanea. They possessed advanced civilization, but it suddenly faced a crisis of collapse. Birth rates decreased, and some lost their reason, turning into beasts. The Dragon Tribe sealed their beastly nature within "dragonstones" and tried to avoid turning into beasts by taking on a humanoid form. This is how the humanoid Dragon Tribe known as "Manakete" came to be. As the Manakete began to settle in various regions, humans rose to prominence on the continent. However, due to the rampaging of the transformed Earth Dragon Tribe, humanity found itself on the brink of extinction.`,
+            "アカネイア大陸に竜族が現れたのは、数千年前とも数万年前ともいわれる。竜族は高度な文明を誇っていたが、それが突如崩壊の危機を迎える。出生率が低下し、理性を失って獣化するものが現れたのだ。竜族は、自らの獣性を「竜石」に封じ、人間化することで獣化を避けっようとした。こうして人間化した竜族が「マムクート」である。マムクートが各地で隠棲し始めると、大陸には人間が台頭。しかし、獣化した地竜族が暴走したことにより、人類は滅亡の危機に瀕するのだった。"
+        ],
+        [
+            "h3",
+            `Divine Dragon Tribe and Earth Dragon Tribe`,
+            "神竜族と地竜族"
+        ],
+        [
+            "p",
+            `The most powerful among the dragon tribes are the Divine Dragon Tribe, but the Earth Dragon Tribe possessed significant power as well. The Earth Dragon Tribe had a strong sense of pride and refused to become Manakete. Many of them succumbed to their beastly nature and became a threat to humanity.`,
+            "もっとも力を持つ竜族は神竜族であるが、地竜族はそれに次ぐ力を有していた。地竜族はプライドが高く、マムクートとなることを拒否。その多くが獣化し人類の脅威となった。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h1",
+            `War of Liberation`,
+            "解放戦争"
+        ],
+        [
+            "h2",
+            `Medeus's invasion and the Hero Anri`,
+            "メディウスの侵攻と英雄アンリ"
+        ],
+        [
+            "p",
+            `The new Dragon Tribe's King Naga took pity on humans and began a battle against the Earth Dragon Tribe. After paying a great sacrifice, the Divine Dragon Tribe sealed the Earth Dragon Tribe deep within the Dragon's Table. However, the humans who had gained peace eventually grew in power, became arrogant, and began to look down upon the Manakete, treating them like insects.`,
+            "新竜族の王ナーガは人間を哀れみ、地竜族との戦いを始める。多大な犠牲を払いつつ、神竜族は、地竜族を竜の祭壇の奥深くに封印する。しかし、平穏を手にした人間は、やがて力をつけて驕り、マムクートをさげすみ、虫けらのように扱うことになる。"
+        ],
+        [
+            "p",
+            `Enraged by betrayal, Medeus established the Manakete Empire in the land of Dolhr and began an invasion against humans. In a short span of time, he caused the downfall of Archanea, which was the central nation of humans.`,
+            "裏切りの激怒したメディウスは、ドルーアの地にマムクートの帝国を建て、人間への侵攻を開始。人間たちの中心国家であったアカネイアを、瞬く間に滅亡させた。"
+        ],
+        [
+            "p",
+            `The hope of the humans lay in Princess Artemis, the sole surviving member of the Archanea royal family. Taking refuge in Altea, she organized the Liberation Army with herself as its symbol, and humans commenced their resistance against the Dolhr Empire. The commander Duke Caldas was entrusted with the emblem of the royal family, the "Fire Emblem," by Princess Artemis.`,
+            "人間たちの希望は、アカネイア王家唯一の生き残りのアルテミス王女。アリティアに逃れていら彼女を象徴として解放軍を組織し、人間はドルーア帝国への抵抗を開始。指揮官のカルタス伯爵には、アルテミス王女から王家の代行者の証「炎の紋章」が託された。"
+        ],
+        [
+            "p",
+            `With Medeus appearing at the front lines, the Liberation Army found itself in a dire situation. However, at that moment, the hero Anri arrived. Anri, who loved Artemis, obtained the divine sword "Falchion" after a grueling journey and used this divine sword to defeat Medeus.`,
+            "メディウスが最前線に現れたことで解放軍は窮地に陥るが、そこに英雄アンリが登場。アルテミスを愛していたアンリは、過酷な旅の末に神剣「ファルシオン」を入手し、この神剣でメディウスを討ち果たす。"
+        ],
+        [
+            "h3",
+            `The Legend of the Guardian Deity Naga`,
+            "守護神ナーガの伝説"
+        ],
+        [
+            "p",
+            `The Divine Dragon King Naga is renowned as "Guardian Deity Naga" in legends. He left behind the "Binding Shield" to maintain the seal on the Earth Dragon Tribe and the dragon-slaying divine sword "Falchion." His life, spanning 5,000 years, came to an end.`,
+            `神竜王ナーガは、"守護神ナーガ"として伝説に。地竜族の封印を維持する「封印の盾」、竜殺しの神剣「ファルシオン」を残すと、５千年に及ぶ生涯を閉じたのだ。`
+        ],
+        [
+            "h3",
+            `The sole Manakete of the Earth Dragon Tribe`,
+            "地竜族唯一のマムクート"
+        ],
+        [
+            "p",
+            `Medeus, the Earth Dragon who became the sole Manakete against his tribe's policies. Originally, he held a position of maintaining order, such as overseeing the seal of the Earth Dragon Tribe on the orders of Divine Dragon King Naga, but...`,
+            "メディウスは、部族の方針に反して唯一のマムクートとなった地竜族。神竜王ナーガの命で地竜族の封印の監視をするなど、元来秩序を守る立場だったが……。"
+        ],
+        [
+            "h3",
+            `The Legend of the Hero Anri`,
+            "英雄アンリの伝説"
+        ],
+        [
+            "p",
+            `After a grueling journey, Anri obtained the divine sword "Falchion" at the Ice Dragon Temple. Armed with this sword, he confronted Medeus and, after a seven-day, seven-night battle, he defeated him.`,
+            "過酷な旅を経て、氷竜神殿で神剣「ファルシオン」を手に入れたアンリ。この剣を手に、メディウスと対峙したアンリは、7日7晩も続いた死闘の末にメディウスを討ち果たす。"
         ]
     ],
     //page 21
     [
         [
+            "h1",
+            `The Formation of the Seven Kingdoms and the War of Shadows`,
+            "七王国の成立と暗黒戦争"
+        ],
+        [
+            "h2",
+            `The Formation of the Seven Kingdoms and the Resurrection of the Dolhr Empire`,
+            "七王国の成立とドルーア帝国の復活"
+        ],
+        [
             "p",
-            `[not done yet]`,
+            `After Medeus was defeated by Anri, new nations began to emerge on the continent one after another. In the year 498 of the Archanea calendar, Duke Caldas, who had married Artemis, became king and reestablished the Holy Kingdom of Archanea. Over the next five years, Aurelis, Altea, Grust, and Macedon were founded in succession. Furthermore, in the year 537, Gra was established, and in 579, Talys was founded, leading to the establishment of the Seven Kingdoms.`,
+            "アンリにメディウスが討たれた後、大陸では新たな国が続々と誕生する。アカネイア歴４９８年、アルテミスと婚姻したカルタス伯爵が王となり、アカネイア聖王国を再興。以後５年の間に、オレルアン、アリティア、グルニア、マケドニアが次々と建国されるのである。さらに、５３７年にグラ、５７９年にタリスが建国され、七王国成立の運びとなった。"
+        ],
+        [
+            "p",
+            `In the year 597, when Medeus was resurrected, Macedon and Grust, which had long harbored resentment against Archanea, joined forces. In 598, the Dolhr Empire was resurrected. Furthermore, Gra secretly promised to support them. As a result, the Seven Kingdoms became divided into two opposing forces.`,
+            "５９７年にメディウスが復活すると、かねてからアカネイアに反発を抱いていたマケドニア、グルニアがこれに連合、５９８年にドルーア帝国が再興される。さらに、グラも密かに内応を約束。これにより、七王国は２つの勢力に分かれて争うこととなる。"
+        ],
+        [
+            "h5",
+            "Countries sided with Dolhr",
+            "ドルーア側諸国"
+        ],
+        [
+            "p",
+            `Khadein, Gra, Grust, Dolhr, Macedon`,
+            "カダイン、グラ、グルニア、ドルーア、マケドニア"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h2",
+            ``,
+            "アカネイア聖王国敗亡"
+        ],
+        [
+            "p",
+            ``,
             ""
         ]
     ],
@@ -3661,17 +3782,363 @@ export const book20th = [
     //page 239
     [
         [
+            "h1",
+            `BOOK GUIDE`,
+            "BOOK GUIDE"
+        ],
+        [
             "p",
-            `[not done yet]`,
-            ""
+            ``,
+            "『ファイアーエムブレム』シリーズをより深く楽しむためにおすすめしたいのが、攻略本をはじめとする関連書籍。小学館よりこれまでに刊行された攻略本と小説を、まとめて紹介しておこう。"
+        ],
+        [
+            "small",
+            "",
+            "★印の書籍は絶版となっており、販売しておりません。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "",
+            "ファイアーエムブレム百科"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "",
+            "機種　　ファミリーコンピュータ"
+        ],
+        [
+            "p",
+            "",
+            "発売日　1990／04／25"
+        ],
+        [
+            "p",
+            "",
+            "判型　　B6判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "",
+            "ファイアーエムブレム外伝"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "",
+            "機種　　ファミリーコンピュータ"
+        ],
+        [
+            "p",
+            "",
+            "発売日　1992／03／14"
+        ],
+        [
+            "p",
+            "",
+            "判型　　B6判"
         ]
     ],
     //page 240
     [
         [
+            "h3",
+            `Fire Emblem`,
+            "Fire Emblem"
+        ],
+        [
             "p",
-            `[not done yet]`,
-            ""
+            "Wonder Life Special",
+            "ワンダーライフスペシャル"
+        ],
+        [
+            "h3",
+            "[ Nintendo Official Guidebook ]",
+            "［　任天堂公式ガイドブック　］"
+        ],
+        [
+            "h2",
+            "20th Anniversary",
+            "20th Anniversary"
+        ],
+        [
+            "h1",
+            "Fire Emblem Encyclopedia",
+            "ファイアーエムブレム大全"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "p",
+            `● Supervision　―――—――――――　Nintendo Co., Ltd.`,
+            "●監修　―――――—――――――　任天堂バク式会社",
+            "text-end"
+        ],
+        [
+            "p",
+            `Intelligent Systems Co., Ltd.`,
+            "株式会社インテリジェントシステムズ",
+            "text-end"
+        ],
+        [
+            "p",
+            "● Planning and Editing　―　Akiharu Tsuchida (Supersonic)",
+            "●企画・編集　――――――――　土田章晴（超音速）",
+            "text-end"
+        ],
+        [
+            "p",
+            "Daisuke Hikita （　〃　）",
+            "開田大輔（　〃　）",
+            "text-end"
+        ],
+        [
+            "p",
+            "Yasuyuki Kato （　〃　）",
+            "加藤康之（　〃　）",
+            "text-end"
+        ],
+        [
+            "p",
+            "Koji Shimizu （　〃　）",
+            "清水耕司（　〃　）",
+            "text-end"
+        ],
+        [
+            "p",
+            "Junko Fukuda",
+            "福田純子",
+            "text-end"
+        ],
+        [
+            "p",
+            "Takayama Kunio (Shougakukan)",
+            "髙山邦雄（小学館）",
+            "text-end"
+        ],
+        [
+            "p",
+            "● Cover and Text Design　―――――――　Akemi Tobu (at)",
+            "●カバー・本文デザイン　―――――　戸部明美（at）",
+            "text-end"
+        ],
+        [
+            "p",
+            "● SPECIAL THANKS TO ―――――――――—―― Senri Kita",
+            "●SPECIAL THANKS TO　―――――――――　北　千里",
+            "text-end"
+        ],
+        [
+            "p",
+            "Eiji Kaneda",
+            "金田榮路",
+            "text-end"
+        ],
+        [
+            "p",
+            "Misaki Kogawa",
+            "こがわみさき",
+            "text-end"
+        ],
+        [
+            "p",
+            "Chika Ogaki",
+            "おがきちか",
+            "text-end"
+        ],
+        [
+            "p",
+            "Koutarou Yamada",
+            "山田孝太郎",
+            "text-end"
+        ],
+        [
+            "p",
+            "Yuka Tsujiyoko",
+            "辻横由佳",
+            "text-end"
+        ],
+        [
+            "p",
+            "Toru Narihiro (Intelligent Systems)",
+            "成広　通（インテリジェントシステムズ）",
+            "text-end"
+        ],
+        [
+            "p",
+            "Hitoshi Yamagami (Nintendo)",
+            "山上仁志（任天堂）",
+            "text-end"
+        ],
+        [
+            "small",
+            `Fire Emblem: Shadow Dragon and the Blade of Light ©1990 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　暗黒竜と光の剣　©1990 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Gaiden ©1992 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　外伝　©1992 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Mystery of the Emblem ©1994 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　紋章の謎　©1994 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Genealogy of the Holy War ©1996 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　聖戦の系譜　©1996 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Thracia 776 ©1999 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　トラキア776　©1999 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: The Binding Blade ©2002 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　封印の剣　©2002 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: The Blazing Blade ©2003 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　烈火の剣　©2003 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: The Sacred Stones ©2004 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　聖魔の光石　©2004 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Path of Radiance ©2005 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　蒼炎の軌跡　©2005 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Radiant Dawn ©2007 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　暁の女神　©2007 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: Shadow Dragon ©2008 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　新・暗黒竜と光の剣　©2008 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "small",
+            `Fire Emblem: New Mystery of the Emblem ©2010 Nintendo/INTELLIGENT SYSTEMS`,
+            "ファイアーエムブレム　新・紋章の謎　～光と影の英雄～　©2010 Nintendo/INTELLIGENT SYSTEMS"
+        ],
+        [
+            "h6",
+            "Licensed by NINTENDO",
+            "Licensed by NINTENDO",
+            "mt-2 mb-5"
+        ],
+        [
+            "p",
+            "July 5, 2010 - First Edition, First Printing Published",
+            "２０１０年７月５日　初版第一刷発行",
+            "mb-5"
+        ],
+        [
+            "p",
+            "● Publisher ――――――—―――――――――――— Masahiko Shiotani",
+            "●発行人　―――――――――――――――　塩谷雅彦",
+            "text-end"
+        ],
+        [
+            "p",
+            "● Printing Facility　―――――――――――――　Sanko Printing Co., Ltd.",
+            "●印刷所　―――――――――――　三晃印刷株式会社",
+            "text-end"
+        ],
+        [
+            "p",
+            "Printed in Japan",
+            "Printed in Japan",
+            "text-end"
+        ],
+        [
+            "p",
+            "● Binding Facility ―—―――――― Wakabayashi Binding Factory Co., Ltd.",
+            "●製本所　―――――――――　株式会社若林製本工場",
+            "text-end"
+        ],
+        [
+            "p",
+            "● Publisher's Address　――――――――――――――――　〒101-8001",
+            "●発行所　――――――――――――――　〒101-8001",
+            "text-end"
+        ],
+        [
+            "p",
+            "2-3-1 Hitotsubashi, Chiyoda-ku, Tokyo",
+            "東京都千代田区一ツ橋2-3-1",
+            "text-end"
+        ],
+        [
+            "p",
+            "Phone　Editing: 03-3230-5409",
+            "電話　編集03-3230-5409",
+            "text-end"
+        ],
+        [
+            "p",
+            "Sales: 03-5281-3555",
+            "販売03-5281-3555",
+            "text-end"
+        ],
+        [
+            "h4",
+            "Shougakukan Inc.",
+            "株式会社小学館",
+            "text-end"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "strong",
+            "● We cannot respond to inquiries regarding the content of the game or similar matters over the phone.",
+            "●ゲームの内容などに関する電話でのお問い合わせにはお答えできません。"
+        ],
+        [
+            "p",
+            "● We take great care in binding, but in the unlikely event that you receive a defective product such as missing or disordered pages, please contact our production center call center at ☎ 0120-336-340. We will provide a replacement at our expense (phone inquiries accepted from Monday to Friday, 9:30 AM to 5:30 PM, excluding Saturdays, Sundays, and holidays).",
+            "●造本には十分注意しておりますが、万一、落丁・乱丁などの不良品がありましたら、制作局コールセンター（☎0120-336-340）にご連絡ください。送料小社負担にてお取り替えいたします（電話受付はド・日・祝日を除く9:30～17:30）。"
+        ],
+        [
+            "p",
+            "●🅁 <Japan Reproduction Rights Center Commissioned Publication> Unauthorized reproduction or copying of this book, aside from exceptions under copyright law, is prohibited. If you intend to copy this book, please obtain permission from the Japan Reproduction Rights Center (JRRC) in advance.",
+            "●🅁〈日本複写権センター委託出版物〉本書を無断で複写・複製（コピー）することは、著作権法上の例外を除いて禁じられています。本書をコピーされる場合は、事前に日本複写権センター（JRRC）の許諾を受けてください。"
+        ],
+        [
+            "p",
+            "JRRC〈http://www.jrrc.or.jp　email: info@jrrc.or.jp　Phone: 03-3401-2328〉",
+            "JRRC〈http://www.jrrc.or.jp　eメール：info@jrrc.or.jp　電話：03-3401-2328〉"
+        ],
+        [
+            "p",
+            "©SHOUGAKUKAN 2010　ISBN978-4-09-106467-7",
+            "©SHOUGAKUKAN 2010　ISBN978-4-09-106467-7",
+            "text-center"
         ]
     ],
     //page 241
@@ -3697,69 +4164,70 @@ export const book20th = [
             "ファイアーエムブレム大全"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Shadow Dragon and the Blade of Light ©1990 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　暗黒竜と光の剣　©1990 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Gaiden ©1992 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　外伝　©1992 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Mystery of the Emblem ©1994 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　紋章の謎　©1994 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Genealogy of the Holy War ©1996 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　聖戦の系譜　©1996 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Thracia 776 ©1999 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　トラキア776　©1999 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: The Binding Blade ©2002 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　封印の剣　©2002 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: The Blazing Blade ©2003 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　烈火の剣　©2003 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: The Sacred Stones ©2004 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　聖魔の光石　©2004 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Path of Radiance ©2005 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　蒼炎の軌跡　©2005 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Radiant Dawn ©2007 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　暁の女神　©2007 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: Shadow Dragon ©2008 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　新・暗黒竜と光の剣　©2008 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
-            "p",
+            "small",
             `Fire Emblem: New Mystery of the Emblem ©2010 Nintendo/INTELLIGENT SYSTEMS`,
             "ファイアーエムブレム　新・紋章の謎　～光と影の英雄～　©2010 Nintendo/INTELLIGENT SYSTEMS"
         ],
         [
             "h5",
             "Shougakukan [publisher]",
-            "小学館"
+            "小学館",
+            "my-3"
         ],
         [
             "h6",
@@ -3767,4 +4235,4 @@ export const book20th = [
             "Licensed by NINTENDO"
         ]
     ]
-]
+];

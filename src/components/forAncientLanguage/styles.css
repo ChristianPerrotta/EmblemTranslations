@@ -1,0 +1,39 @@
+.floating-arrow-right {
+    font-size: 32px;
+    animation: floatArrowRight 2s linear infinite;
+    text-align: left;
+}
+
+.floating-arrow-left {
+    font-size: 32px;
+    animation: floatArrowLeft 2s linear infinite;
+    text-align: right;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+@keyframes floatArrowRight {
+    0% {
+        padding-left: 0;
+    }
+    50% {
+        padding-left: 8px;
+    }
+    100% {
+        padding-left: 0;
+    }
+}
+
+@keyframes floatArrowLeft {
+    0% {
+        padding-right: 0;
+    }
+    50% {
+        padding-right: 8px;
+    }
+    100% {
+        padding-right: 0;
+    }
+}

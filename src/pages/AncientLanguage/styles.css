@@ -1,0 +1,18 @@
+.ancient-l {
+    font-family: AncientLanguage;
+    font-size: 60px;
+}
+
+.ancient-m {
+    font-family: AncientLanguage;
+    font-size: 40px;
+}
+
+.ancient-s {
+    font-family: AncientLanguage;
+    font-size: 20px;
+}
+
+#lesson-buttons button {
+    width: 100px;
+}
