@@ -3788,12 +3788,12 @@ export const book20th = [
         ],
         [
             "p",
-            ``,
+            `To enjoy the "Fire Emblem" series more deeply, I recommend exploring related books, including strategy guides. Let me introduce the strategy guides and novels published by Shougakukan to date.`,
             "『ファイアーエムブレム』シリーズをより深く楽しむためにおすすめしたいのが、攻略本をはじめとする関連書籍。小学館よりこれまでに刊行された攻略本と小説を、まとめて紹介しておこう。"
         ],
         [
             "small",
-            "",
+            "Books marked with a ★ are out of print and not available for sale.",
             "★印の書籍は絶版となっており、販売しておりません。"
         ],
         [
@@ -3801,7 +3801,7 @@ export const book20th = [
         ],
         [
             "h3",
-            "",
+            "Fire Emblem Encyclopedia",
             "ファイアーエムブレム百科"
         ],
         [
@@ -3811,17 +3811,17 @@ export const book20th = [
         ],
         [
             "p",
-            "",
+            "Platform: Family Computer",
             "機種　　ファミリーコンピュータ"
         ],
         [
             "p",
-            "",
+            "Release Date: April 25, 1990",
             "発売日　1990／04／25"
         ],
         [
             "p",
-            "",
+            "Format: B6 size",
             "判型　　B6判"
         ],
         [
@@ -3829,7 +3829,7 @@ export const book20th = [
         ],
         [
             "h3",
-            "",
+            "Fire Emblem Gaiden",
             "ファイアーエムブレム外伝"
         ],
         [
@@ -3839,18 +3839,311 @@ export const book20th = [
         ],
         [
             "p",
-            "",
+            "Platform: Family Computer",
             "機種　　ファミリーコンピュータ"
         ],
         [
             "p",
-            "",
+            "Release Date: March 14, 1992",
             "発売日　1992／03／14"
         ],
         [
             "p",
-            "",
+            "Format: B6 size",
             "判型　　B6判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Mystery of the Emblem",
+            "ファイアーエムブレム　紋章の謎"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "Platform: Super Famicom",
+            "機種　　スーパーファミコン"
+        ],
+        [
+            "p",
+            "release Date: January 21, 1994",
+            "発売日　1994／01／21"
+        ],
+        [
+            "p",
+            "Format: B6 size",
+            "判型　　B6判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Mystery of the Emblem Professional",
+            "ファイアーエムブレム　紋章の謎　プロフェッショナル"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "Platform: Super Famicom",
+            "機種　　スーパーファミコン"
+        ],
+        [
+            "p",
+            "Release Date: April 30, 1994",
+            "発売日　1994／04／30"
+        ],
+        [
+            "p",
+            "Format: B6 size",
+            "判型　　B6判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Genealogy of the Holy War",
+            "ファイアーエムブレム　聖戦の系譜"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "Platform: Super Famicom",
+            "機種　　スーパーファミコン"
+        ],
+        [
+            "p",
+            "Release Date: June 14, 1996",
+            "発売日　1996／06／14"
+        ],
+        [
+            "p",
+            "Format: B5 size",
+            "判型　　B5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Thracia 776",
+            "ファイアーエムブレム　トラキア776"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "Platoform: Super Famicom",
+            "機種　　スーパーファミコン"
+        ],
+        [
+            "p",
+            "Release Date: August 1, 1999",
+            "発売日　1999／10／01"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: The Binding Blade",
+            "ファイアーエムブレム 封印の剣"
+        ],
+        [
+            "h2",
+            "★",
+            "★"
+        ],
+        [
+            "p",
+            "Platform: Game Boy Advance",
+            "機種　　ゲームボーイアドバンス"
+        ],
+        [
+            "p",
+            "Release Date: April 30, 2002",
+            "発売日　2002／04／30"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: The Blazing Blade",
+            "ファイアーエムブレム 烈火の剣"
+        ],
+        [
+            "p",
+            "Platform: Game Boy Advance",
+            "機種　　ゲームボーイアドバンス"
+        ],
+        [
+            "p",
+            "Release Date: June 18, 2003",
+            "発売日　2003／06／18"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: The Sacred Stones",
+            "ファイアーエムブレム 聖魔の光石"
+        ],
+        [
+            "p",
+            "Platoform: Game Boy Advance",
+            "機種　　ゲームボーイアドバンス"
+        ],
+        [
+            "p",
+            "Release Date: November 17, 2004",
+            "発売日　2004／11／17"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Path of Radiance",
+            "ファイアーエムブレム 蒼炎の軌跡"
+        ],
+        [
+            "p",
+            "Platform: Nintendo GameCube",
+            "機種　　ニンテンドーゲームキューブ"
+        ],
+        [
+            "p",
+            "Release Date: June 13, 2005",
+            "発売日　2005／06／13"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: Radiant Dawn",
+            "ファイアーエムブレム 暁の女神"
+        ],
+        [
+            "p",
+            "Platoform: Wii",
+            "機種　　Wii"
+        ],
+        [
+            "p",
+            "Release Date: April 12, 2007",
+            "発売日　2007／04／12"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h3",
+            "Fire Emblem: New Mystery of the Emblem",
+            "ファイアーエムブレム 新・暗黒竜と光の剣"
+        ],
+        [
+            "p",
+            "Platform: Nintendo DS",
+            "機種　　ニンテンドーDS"
+        ],
+        [
+            "p",
+            "Release Date: August 3, 2008",
+            "発売日　2008／10／03"
+        ],
+        [
+            "p",
+            "Format: A5 size",
+            "判型　　A5判"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h2",
+            `Novel Version: Fire Emblem: Mystery of the Emblem 1-4 ★`,
+            "小説版　Fire Emblem ファイアーエムブレム　紋章の謎１～４　★"
+        ],
+        [
+            "p",
+            `[Super Quest Collection]`,
+            "［スーパークエスト文庫］"
+        ],
+        [
+            "p",
+            `Author: Hideo Takayashiki`,
+            "著者：高屋敷英夫"
+        ],
+        [
+            "p",
+            `Illustration: Yoshihiko Ochi`,
+            "イラスト：おちよしひこ"
+        ],
+        [
+            "p",
+            `Format: A6 size`,
+            "判型：A6判"
+        ],
+        [
+            "p",
+            `A novel depicting the second part of "Mystery of the Emblem," titled "War of Heroes." It portrays not only Marth and the main characters but also the heroic deeds of characters who didn't receive much spotlight in the game. Numerous original characters from the novel also make appearances. Unfortunately, it is already out of print.`,
+            "『紋章の謎』の第２部、「英雄戦争」を描いた小説。マルスたちはもちろんのこと、ゲーム中ではあまり脚光を浴びなかったキャラクターの雄姿も描かれている。小説オリジナルキャラクターも多数登場する。残念ながらすでに絶版。"
+        ],
+        [
+            "p",
+            `The author, Hideo Takyashiki, has not only worked on this series but also contributed to numerous anime and drama scripts and series compositions. Some of his notable works include anime such as "Maison Ikkoku," "Kaiji: Ultimate Survivor," "Souten Kouro," and "RAINBOW: Nisha Rokubou no Shichinin," among others.`,
+            "著者の高屋敷英夫民は、本作のほかにも、アニメやドラマの脚本・シリーズ構成を多数手がけている。代表作にアニメ『めぞん一刻』『逆境無頼カイジ』『蒼天航路』『RAINBOW-二舎六房の七人-』など。"
         ]
     ],
     //page 240
