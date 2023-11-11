@@ -1,50 +1,60 @@
 {
     "lesson1": {
+        "intro": "This is your first lesson, so we'll begin slowly. Your mission is to learn the characters for \"l\", \"i\" and \"t\". After checking each character, you can test yourself with the Drill 1. Then, see how the characters can be grouped together to form words in the Words tab. Finally, you can test you can properly read these words with the Drill 2 tab. Have fun!",
         "letters": ["l", "i", "t"],
         "words": ["lit", "tilt", "till", "it", "ill"],
         "names": []
     },
     "lesson2": {
+        "intro": "Our second lesson, and your mission is very similar. Only two characters this time: \"e\" and \"a\". Just follow the sequence Chars > Drill 1 > Words > Drill 2.",
         "letters": ["e", "a"],
         "words": ["late", "lite", "tail", "tile", "tale", "teal", "elite", "all", "tall", "ate", "tea", "let", "eel", "lie", "tie", "ale"],
         "names": []
     },
     "lesson3": {
+        "intro": "In this lesson, besides learning the characters for \"o\", \"n\" and \"s\", and doing all the drills you already know, you can also try to read some names for beloved Fire Emblem characters! Try the Names tab at the end of the lesson.",
         "letters": ["o", "n", "s"],
         "words": ["stone", "lion", "silt", "sane", "lost", "snail", "silent", "nest", "sail", "salon", "onion", "noise"],
         "names": ["Titania", "Ena", "Naesala", "Nolan", "Leanne"]
     },
     "lesson4": {
+        "intro": "You already know the gist, right? This lesson's characters are \"h\", \"r\" and \"u\". Just keep with the good pace!",
         "letters": ["h", "r", "u"],
         "words": ["hurt", "run", "her", "hour", "tear", "lure", "rain", "iron", "roar", "air", "inert", "rein", "hear"],
         "names": ["Shinon", "Soren", "Lethe", "Sothe", "Tanith", "Tauroneo", "Haar", "Nasir", "Laura", "Aran", "Nailah", "Heather", "Lehran"]
     },
     "lesson5": {
+        "intro": "Wow, already lesson 5! Here you'll learn the characters for \"d\", \"c\" and \"m\". Don't forget to test yourself with the drills and to check the Fire Emblem unit names picked for this lesson.",
         "letters": ["d", "c", "m"],
         "words": ["clam", "cod", "mat", "old", "doc", "mad", "cat", "arm", "car", "lid", "maid", "dam", "arc", "acid", "cold", "cord", "mild", "acidic", "radial", "discard", "claim", "dial", "duct", "maid"],
         "names": ["Oscar", "Mia", "Mist", "Marcia", "Mordecai", "Astrid", "Tormod", "Muarim", "Calill", "Lucia", "Elincia", "Micaiah", "Leonardo", "Nealuchi"]
     },
     "lesson6": {
+        "intro": "I bet you can read many things in the Tellius Ancient language already! In this lesson, you'll learn three more characters: \"f\", \"w\" and \"y\".",
         "letters": ["f", "w", "y"],
         "words": ["fly", "wide", "your", "fish", "swim", "wait", "fury", "draw", "fuel", "wind", "wrist", "daisy", "lawyer", "frost", "hurry", "frown", "flour", "swift", "dwarf", "fruit", "clay", "dawn", "leaf", "lawn"],
         "names": ["Rhys", "Ilyana", "Rolf", "Stefan", "Reyson", "Ranulf", "Edward", "Fiona", "Rafiel", "Lyre"]
     },
     "lesson7": {
+        "intro": "New lesson, new characters: \"p\", \"b\" and \"g\". You certainly know what to do by now, so I'll keep the introduction short.",
         "letters": ["p", "b", "g"],
         "words": ["big", "bag", "lap", "bat", "gap", "lip", "tap", "pig", "tip", "tab", "bolt", "flag", "gain", "grab", "gold", "lamp", "spin", "pilot", "harp", "snip", "drag", "trap", "burn", "club", "frog", "plug", "bold", "path", "bolt", "slap", "sugar", "plum", "grain", "bump", "grip", "palm", "glad", "bright", "pound", "band"],
         "names": ["Boyd", "Gatrie", "Nephenee", "Brom", "Bastian", "Geoffrey", "Largo", "Tibarn", "Giffca", "Meg", "Sigrun", "Pelleas", "Caineghis", "Renning", "Gareth", "Sephiran", "beorc"]
     },
     "lesson8": {
+        "intro": "This is the second-to-last batch of letters: \"v\", \"k\" and \"j\". Since \"k\" is here, you'll finally spot Ike's name in the Names tab!",
         "letters": ["v", "k", "j"],
         "words": ["jive", "lake", "vast", "disk", "hike", "jolt", "rake", "jaw", "jumper", "lark", "kite", "live", "oval", "skip", "bake", "jacket", "peak", "jive", "jungle", "keen", "view", "vase", "milk", "jump", "vivid", "jockey", "diver", "snake", "kiwi", "bike", "joystick", "lava", "skin", "vine", "fork", "hive", "keel", "vacation", "glove"],
         "names": ["Ike", "Volke", "Kieran", "Jill", "Makalov", "Devdan", "Janaff", "Ulki", "Volug", "Vika", "Danved", "Kyza", "Skrimir", "Sanaki", "Oliver", "Kurthnaga"]
     },
     "lesson9": {
+        "intro": "This is the final batch of letters: \"x\", \"q\" and \"z\". Try your best to complete the set with this lesson, but don't forget you still have one more after this!",
         "letters": ["x", "q", "z"],
         "words": ["quiz", "box", "zero", "quartz", "maximum", "oxidize", "zebra", "excuse", "quicker", "zipper", "extras", "xerox", "sizzle", "squeeze", "fuzzy", "quench", "zing", "xylophone", "quorum", "zoom", "luxury", "quilt", "wax", "laziness", "zeal"],
         "names": ["Zihark", "laguz"]
     },
     "lesson10": {
+        "intro": "Well, what can we learn after all the letters? Numbers, of course! In this final lesson, you'll learn how to read all the numbers from 0 to 9. After that, you just use them like we do in English.",
         "letters": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
         "words": [],
         "names": []

@@ -54,7 +54,12 @@ export function Drill({list, type}) {
 
     return (
         <div className="row align-items-center justify-content-center mt-3">
-
+            {type === 'name' ? 
+            <div className="alert alert-warning alert-dismissible fade show" role="alert">
+            Don't mind the big "G"-like character in the begining of each word. It's just ther to indicate that the initial letter is in upper case. This character has no pronunciation whatsoever.
+            <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            : undefined}
             <div className="col col-auto" key={"word" + index}>
                 <div className="card" style={{width: 18 + "rem"}}>
                     <div className="card-header text-center">
@@ -72,13 +77,14 @@ export function Drill({list, type}) {
             </div>
 
             <div className="col col-auto text-center">
+                
+                <button className="btn btn-primary my-2 mx-2" style={{width: 5 + "rem"}}
+                onClick={handleCheckWord} disabled={isDisabled}>Check</button>
+                <button className="btn btn-primary my-2" style={{width: 5 + "rem"}}
+                onClick={handleNextWord}>Next</button>
                 <div className={"alert " + result} role="alert" style={{width: 11 + "rem"}}>
                     {result === "alert-success" ? "Correct" : "Incorrect"}, the {type} is "{list[index]}".
                 </div>
-                <button className="btn btn-primary mt-2" style={{width: 5 + "rem"}}
-                onClick={handleCheckWord} disabled={isDisabled}>Check</button> <br />
-                <button className="btn btn-primary mt-2" style={{width: 5 + "rem"}}
-                onClick={handleNextWord}>Next</button>
             </div>
         </div>
     )
