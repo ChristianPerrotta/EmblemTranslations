@@ -29,7 +29,7 @@ With it, you can:
 * read text published exclusively in Japanese, but translated into English
 * compare the text in both languages, if you study Japanese or translation in general
 
-BONUS: learn the Ancient Tellius Language with drills an vocabulary in the `Tellius Ancient Language` section.
+BONUS: learn the Ancient Tellius Language with drills and vocabulary in the `Tellius Ancient Language` section.
 
 <a href="https://emblem-translations.vercel.app/ancient">
   <img src="./src/assets/screenshot2-tellius.png" alt="Tellius Ancient Language lesson" height="500px" style="display:block; margin-left: auto; margin-right: auto;">
