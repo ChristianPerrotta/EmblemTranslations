@@ -32,7 +32,7 @@ With it, you can:
 BONUS: learn the Ancient Tellius Language with drills an vocabulary in the `Tellius Ancient Language` section.
 
 <a href="https://emblem-translations.vercel.app/ancient">
-  <img src="./src/assets/screenshot2-tellius.png" alt="Tellius Ancient Language lesson" height="500px" style="display:block; margin-left: auto; margin-right: auto;>
+  <img src="./src/assets/screenshot2-tellius.png" alt="Tellius Ancient Language lesson" height="500px" style="display:block; margin-left: auto; margin-right: auto;">
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
