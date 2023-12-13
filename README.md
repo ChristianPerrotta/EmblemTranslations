@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <h3 align="center">Emblem Translations</h3>
-    <a href="https://github.com/ChristianPerrotta/adparnassum">
+    <a href="https://emblem-translations.vercel.app/">
         <img src="./public/favicon.svg" alt="Logo" width="80" height="80">
     </a>
   <p align="center">
@@ -31,7 +31,9 @@ With it, you can:
 
 BONUS: learn the Ancient Tellius Language with drills an vocabulary in the `Tellius Ancient Language` section.
 
-[![Tellius Ancient Language Screenshot][tellius-screenshot]](https://emblem-translations.vercel.app/ancient)
+<a href="https://emblem-translations.vercel.app/ancient">
+  <img src="./src/assets/screenshot2-tellius.png" alt="Tellius Ancient Language lesson" height="300px" style="display:block; margin-left: auto; margin-right: auto;>
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +90,6 @@ Project Link: [https://github.com/ChristianPerrotta/EmblemTranslations](https://
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-perrotta-17422b114/
 [project-screenshot]: src/assets/screenshot.png
-[tellius-screenshot]: src/assets//screenshot2-tellius.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
