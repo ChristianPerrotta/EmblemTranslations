@@ -1,4 +1,4 @@
-export function PageRanger({page, lastPage, setPage}) {
+export default function PageRanger({page, lastPage, setPage}) {
 
     let pageLabel = "Page " + page + "/" + lastPage;
     if (page === 0) {

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
-import PetraSpeaking from "../assets/chibi/petra-speaking.png"
+import PetraSpeaking from "../../assets/chibi/petra-speaking.png"
 
-export function NotFound() {
+export default function NotFound() {
     return (
         <div>
             <img src={PetraSpeaking} alt="Petra speaking" className="img-fluid d-block mx-auto mt-5" width="200px"/>

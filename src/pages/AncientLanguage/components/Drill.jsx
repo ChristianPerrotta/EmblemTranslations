@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-export function Drill({list, type}) {
+export default function Drill({list, type}) {
 
     const wordToCheck = useRef('');
 
@@ -56,7 +56,7 @@ export function Drill({list, type}) {
         <div className="row align-items-center justify-content-center mt-3">
             {type === 'name' ? 
             <div className="alert alert-warning alert-dismissible fade show" role="alert">
-            Don't mind the big "G"-like character in the begining of each word. It's just ther to indicate that the initial letter is in upper case. This character has no pronunciation whatsoever.
+            Don't mind the big "G"-like character in the begining of each word. It's just there to indicate that the initial letter is in upper case. This character has no pronunciation whatsoever.
             <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
             : undefined}

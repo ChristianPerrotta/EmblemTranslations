@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Logo from "../assets/emblem-translations-logo.svg";
 
-export function Header() {
+export default function Header() {
     return (
         <>
             <div id="banner">

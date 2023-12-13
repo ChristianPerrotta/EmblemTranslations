@@ -1,12 +1,13 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { HomePage } from "./pages/Home";
-import { NotFound } from "./pages/NotFound";
-import { TR1_20thAnniversary } from "./pages/translations/20thanniversary";
-import { DefaultLayout } from "./layouts/defaultLayout";
-import { AncientLanguage } from "./pages/AncientLanguage";
-import { Lessons } from "./pages/AncientLanguage/Lessons";
 
-export function Router() {
+import HomePage from "./pages/Home/index";
+import NotFound from "./pages/NotFound";
+import TR1_20thAnniversary from "./pages/translations/20thanniversary";
+import DefaultLayout from "./layouts/defaultLayout";
+import AncientLanguage from "./pages/AncientLanguage";
+import Lessons from "./pages/AncientLanguage/Lessons";
+
+export default function Router() {
     return (
         <BrowserRouter>
             <Routes>

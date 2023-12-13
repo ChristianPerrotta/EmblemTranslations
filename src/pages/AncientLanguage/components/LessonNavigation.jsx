@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-export function LessonNavigation({currentLesson}) {
+export default function LessonNavigation({currentLesson}) {
 
     const lessonNumber = currentLesson.length === 8 ? 10 : Number(currentLesson[6])
 

@@ -1,4 +1,4 @@
-export function SectionSelect({sections, pagination, hasSubsections, currentSection, currentSub, page, setPage, setSection, setSub}) {
+export default function SectionSelect({sections, pagination, hasSubsections, currentSection, currentSub, page, setPage, setSection, setSub}) {
 
     function handleSectionChange(event) {
         let section = event.target.value;

@@ -1,4 +1,4 @@
-export function Description(props) {
+export default function Description(props) {
     
     return (
         <div className="container mt-4">
@@ -7,5 +7,5 @@ export function Description(props) {
                 return (<p key={i}>{p}</p>)
             })}
         </div>
-    )
+    );
 }

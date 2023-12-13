@@ -1,8 +1,8 @@
-import { Characters } from "./Characters";
-import { Drill } from "./Drill";
-import { shuffle } from "../../utils/shuffle";
+import Characters from "./Characters";
+import Drill from "./Drill";
+import shuffle from "../../../utils/shuffle";
 
-export function TabDecider({tab, list, lessonNumber}) {
+export default function TabDecider({tab, list, lessonNumber}) {
 
     const ifNumber = lessonNumber === '10' ? "number" : undefined;
     var numberList = [];

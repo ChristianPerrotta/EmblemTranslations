@@ -1,7 +1,7 @@
-import "./styles.css";
 import { useState } from "react"
+import "./styles.css";
 
-export function Characters({list, type}) {
+export default function Characters({list, type}) {
 
     const [index, setIndex] = useState(0)
 

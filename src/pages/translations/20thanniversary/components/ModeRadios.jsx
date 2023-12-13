@@ -1,4 +1,4 @@
-export function ModeRadios(props) {
+export default function ModeRadios(props) {
 
     function isRadioSelected(value) {
         return (props.selectedRadioBtn === value);

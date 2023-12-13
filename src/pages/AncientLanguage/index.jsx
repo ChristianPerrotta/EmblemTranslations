@@ -1,8 +1,9 @@
-import "./styles.css";
-import LeanneSpeaking from "../../assets/chibi/leanne-idle.png";
 import { Link } from "react-router-dom";
 
-export function AncientLanguage() {
+import LeanneSpeaking from "../../assets/chibi/leanne-idle.png";
+import "./styles.css";
+
+export default function AncientLanguage() {
 
     return (
         <main className="container flex-shrink-0">
@@ -65,5 +66,5 @@ export function AncientLanguage() {
             </div>
 
         </main>
-    )
+    );
 }

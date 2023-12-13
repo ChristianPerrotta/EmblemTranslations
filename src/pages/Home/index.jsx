@@ -1,8 +1,8 @@
-import PetraStudying from "../assets/chibi/petra-studying.png";
-import data from '../data/works.json';
-import { BookCard } from "../components/BookCard";
+import PetraStudying from "../../assets/chibi/petra-studying.png";
+import data from '../../data/works.json';
+import BookCard from "./components/BookCard.jsx";
 
-export function HomePage() {
+export default function HomePage() {
 
     return (
         <main className="container mt-4 mb-4 flex-shrink-0">

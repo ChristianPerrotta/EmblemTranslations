@@ -1,14 +1,16 @@
-import cover from "../../assets/20th-book.jpg"
-import { Description } from "../../components/forTranslations/Description";
-import { ModeRadios } from "../../components/forTranslations/ModeRadios";
-import { PageRanger } from "../../components/forTranslations/PageRanger";
-import { SectionSelect } from "../../components/forTranslations/SectionSelect";
-import { TextRender } from "../../components/forTranslations/TextRender";
-import { book20th } from "../../data/TR1-20thanniversary/20th-anniversary-text";
-import { sections20th, pagination20th, description } from "../../data/TR1-20thanniversary/20th-metadata";
 import { useEffect, useState } from "react";
 
-export function TR1_20thAnniversary() {
+import Description from "./components/Description";
+import ModeRadios from "./components/ModeRadios";
+import PageRanger from "./components/PageRanger";
+import SectionSelect from "./components/SectionSelect";
+import TextRender from "./components/TextRender";
+
+import cover from "../../../assets/20th-book.jpg"
+import { book20th } from "../../../data/TR1-20thanniversary/20th-anniversary-text";
+import { sections20th, pagination20th, description } from "../../../data/TR1-20thanniversary/20th-metadata";
+
+export default function TR1_20thAnniversary() {
     
     const [page, setPage] = useState(0);
     const [section, setSection] = useState("frontmatter");

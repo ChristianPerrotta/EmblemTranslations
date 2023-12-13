@@ -1320,7 +1320,7 @@ export const book20th = [
         [
             "p",
             `This is a simulation RPG that was delivered for the Satellaview. It consists of four episodes and is set in the Archanea continent just before "Shadow Dragon and the Blade of Light." It tells the story from the fall of the Archanea Kingdom's capital, Pales, to Nyna's escape. Unlike other Super Famicom games, this one featured recorded voices for the characters in the event scenes. Notably, the characters' voices were provided by voice actors, including Kazuhiko Inoue.`,
-            "『サテラビュー』用に配信されたシミュレーションRPG。全4話で構成され、『暗黒竜と光の剣』の直前のアカネイア大陸を舞台に、アカネイア王国の首都パレス陥落から、ニーナの脱出までを描いている。他のスーパーファミコン作品と違い、イベントシーンではキャラクターたちの声も収録されていた。ちなみに、キャラクターの声は井上和彦民をはじめとする声優陣が担当。"
+            "『サテラビュー』用に配信されたシミュレーションRPG。全4話で構成され、『暗黒竜と光の剣』の直前のアカネイア大陸を舞台に、アカネイア王国の首都パレス陥落から、ニーナの脱出までを描いている。他のスーパーファミコン作品と違い、イベントシーンではキャラクターたちの声も収録されていた。ちなみに、キャラクターの声は井上和彦氏をはじめとする声優陣が担当。"
         ],
         [
             "p",
@@ -2034,13 +2034,38 @@ export const book20th = [
         ],
         [
             "h2",
-            ``,
+            `Fall of the Holy Kingdom of Archanea`,
             "アカネイア聖王国敗亡"
         ],
         [
             "p",
-            ``,
-            ""
+            `In the year 600 of the Archanea calendar, the Dolhr Empire finally launches an invasion on the Holy Kingdom of Archanea. Archanea faces continuous defeats, and in the year 602, its capital, Pales, is besieged. King Cornelius of Altea rushes to the rescue, but at the Menedy River on the way, he confronts General Camus of Grust. Along with the sudden betrayal of the Gra army, an ally, the Altean forces are utterly defeated.`,
+            "アカネイア歴６００年、ついにドルーア帝国はアカネイア聖王国への侵攻を開始する。アカネイアは敗退を続け、ついに６０２年、王都であるパレスを包囲されてしまう。アリティアのコーネリアス王が救援に向かうが、途上のメニディ川にて、グルニアのカミュ将軍と対峙。同盟国であるグラ軍の突然の裏切りもあり、アリティア軍は壊滅してしまう。"
+        ],
+        [
+            "p",
+            `Soon, the capital Pales falls as well. The royal family is executed without mercy, but Princess Nyna alone is spared, as she is protected by General Camus.`,
+            "まもなく首都のパレスも陥落。王族はことごとく処刑されるが、ただひとりニーナ姫だけは、カミュ将軍が庇護したことで命を救われる。"
+        ],
+        [
+            "p",
+            `In the year 604, for some reason, Camus allows Nyna to escape to Aurelis. Subsequently, Camus is held accountable for his actions and is removed from the frontline.`,
+            "６０４年、カミュは、なぜかニーナをオレルアンへと逃がす。そして、カミュはその罪を問われ、前線からはずれることになるのだった。"
+        ],
+        [
+            "h3",
+            `The Tragic Encounter of Nyna and Camus`,
+            "ニーナとカミュ悲劇の出会い"
+        ],
+        [
+            "p",
+            `Nyna and Camus are bitter enemies, yet Camus continues to protect Nyna, and eventually, affection blossoms between them. However, these feelings become the distant cause of later conflicts...`,
+            "ニーナとカミュは宿敵同士。しかし、カミュはニーナを守り続け、やがて２人の間に愛情が芽生える。しかし、その想いは後の戦いの遠因に……。"
+        ],
+        [
+            "h2",
+            `The Fall of Altea and Marth's Concealment`,
+            "アリティアの滅亡とマルスの雌伏"
         ]
     ],
     //page 22
@@ -3774,9 +3799,95 @@ export const book20th = [
     //page 238
     [
         [
+            "h3",
+            `Special Interview`,
+            "Special Interview"
+        ],
+        [
+            "h1",
+            `Yuka Tsujiyoko`,
+            "辻横由佳"
+        ],
+        [
             "p",
-            `[not done yet]`,
-            ""
+            `Special Interview with Yuka Tsujiyoko, the composer for the entire series! We delve into behind-the-scenes stories and other confidential episodes from the production.`,
+            "シリーズ全作品の音楽を手がけた辻横由佳氏のスペシャルインタビュー！！制作時の㊙エピソードなども含めて、お話をうかがった。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "p",
+            `Yuka Tsujiyoko: Composer specializing in game music. Responsible for the music of the "Fire Emblem" series. The sole staff member involved in all titles of the series. Other notable works include "Paper Mario RPG" and "Yoshi no Panepon."`,
+            "つじよこ　ゆか●作曲家。ゲーム音楽を中心に活動している。『ファイアーエムブレム』シリーズの音楽を担当。シリーズ全作品にかかわった、唯一のスタッフである。他の代表作に『ペーパーマリオRPG』『ヨッシーのパネポン』等がある。"
+        ],
+        [
+            "hr"
+        ],
+        [
+            "h4",
+            `Q: The "Fire Emblem" series has reached its 20th anniversary, and...`,
+            "Q: 『FE』シリーズが２０周年を迎えましたが"
+        ],
+        [
+            "p",
+            `20 years, when you open that door, it feels like so much time has passed. Every time we finish one game, there are mountains of things we couldn't achieve (things we wanted to do) and points for reflection. Even if we could achieve those in the next game, new things we want to do and new points for reflection always emerge. Before you know it, 20 years have passed... that's the feeling.`,
+            "２０年と開くと、もうそんなに経ったのかと思います。ひとつ作り終えるごとに、実現できなかったこと（やりたかったこと）や反省点が山のように残り、次回作でそれを実現できたとしても次にまた新たなやりたいこと、反省点が出て来るの繰り返しで、気がつけば２０年の月日が流れていた……という感じです。"
+        ],
+        [
+            "p",
+            `However, above all, I believe it's because the users and fans who enjoy the FE series have warmly watched over us that we have been able to continue.`,
+            "でも、なによりもFEシリーズを楽しんでくださるユーザー、ファンのみなさまが温かく見守ってくださっていたから続いてきたのだと思います。"
+        ],
+        [
+            "h4",
+            `Q: How did you become involved with the series?`,
+            "Q:　どのような経緯で、シリーズにかかわることになったのですか？"
+        ],
+        [
+            "p",
+            `When I started working on the first game at Intelligent Systems, there wasn't a dedicated music staff yet. Programmers who were fond of music were experimenting with creating it. However, as the need for a variety of tunes and increased sound effects arose in a single game, the necessity for a sound staff became evident. It was purely coincidental, but when someone on the development team mentioned, "There's a person who used to do music at a previous company (referring to me)," I got involved with FE.`,
+            "インテリジェントシステムズで１作目の発表を始めたときは、まだ音楽を専門とするスタッフがいなくて、音楽好きなプログラマーが試行錯誤しながら作成していました。ところが１つのゲームに曲数や色々な曲調が必要となり、効果音の数も増えサウンドスタッフの必要性が増やしてきたときに、本当に偶然なのですが、「前にいた会社に音楽をやっている人（私のことです）がいるので声かけてみよう」と開発スタッフの一人が言ったひと言で、私はFEと出会いました。"
+        ],
+        [
+            "p",
+            `The order was something like "Just give it a try." Everything was new to me, and it was the first time for the development staff to handle all the sound in-house, so it was like, "Let's just give it a try!"`,
+            "オーダーは「とにかく作ってみて」だったと思います。私は初めて目にする耳にすることばかりで、開発スタッフもサウンドをすべて自社でというのが始めてだったので、「とにかくやってみようか！」でしたね。"
+        ],
+        [
+            "h4",
+            `Q: When working on the music for the series, what points do you keep in mind?`,
+            "Q:　シリーズの音楽を手がけるうえで、心がけている点を教えてください。"
+        ],
+        [
+            "p",
+            `Being able to sing, being kind to people, and the theme is "love."`,
+            '歌えること、人に優しくあること、テーマは"愛"です。'
+        ],
+        [
+            "h4",
+            `Q: "Most challenging piece" and "Most satisfying piece," please tell us about them.`,
+            "Q:　「いちばん苦労した曲」「会心の出来だった曲」を教えてください。"
+        ],
+        [
+            "p",
+            `Roughly speaking, creating map music always takes more time compared to other pieces. Since around the GBA era, multiple composers have been involved in the development, and we've been inspiring each other, resulting in unique tracks.`,
+            "おおざっぱですが、マップ曲の作成はいつも他の曲と比べて時間がかかります。GBAあたりから、複数の作曲者で開発していますが、お互いに刺激しあってユニークな曲ができました。"
+        ],
+        [
+            "p",
+            `A song that I casually hummed and later struggled with is the title track. A piece that is beloved for being created quickly and effortlessly in a short time is "Theme of Encounter" [the recruitment theme]. I kept working on "Genealogy of the Holy War" as if possessed (whether it was a struggle or a success...).`,
+            "さらっと鼻歌で作ってあとあと苦労している曲は、タイトル曲です。短時間であまり苦労なく作った曲で慕われている曲は、「仲間入り」です。『聖戦』はとりつかれたように作り続けていました（苦労なのか、会心なのか…）。"
+        ],
+        [
+            "p",
+            `In this job, I've come to realize that the composer's level of involvement (?) often conflicts with the popularity among users.`,
+            "この仕事をして作曲者の作りこみ度（？）とユーザーの方の人気度は相反していることが多い、と悟りました。"
+        ],
+        [
+            "p",
+            `⬅️Birthday card that Mrs. Tsujiyoko received from the development staff. The unexpected combination of "flower bouquet and Darros" is good!!`,
+            "⬅️辻横さんが開発スタッフからもらったお誕生日カード。「花束とダロス」という、意外な組み合わせがGood!!"
         ]
     ],
     //page 239
@@ -4143,7 +4254,7 @@ export const book20th = [
         [
             "p",
             `The author, Hideo Takyashiki, has not only worked on this series but also contributed to numerous anime and drama scripts and series compositions. Some of his notable works include anime such as "Maison Ikkoku," "Kaiji: Ultimate Survivor," "Souten Kouro," and "RAINBOW: Nisha Rokubou no Shichinin," among others.`,
-            "著者の高屋敷英夫民は、本作のほかにも、アニメやドラマの脚本・シリーズ構成を多数手がけている。代表作にアニメ『めぞん一刻』『逆境無頼カイジ』『蒼天航路』『RAINBOW-二舎六房の七人-』など。"
+            "著者の高屋敷英夫氏は、本作のほかにも、アニメやドラマの脚本・シリーズ構成を多数手がけている。代表作にアニメ『めぞん一刻』『逆境無頼カイジ』『蒼天航路』『RAINBOW-二舎六房の七人-』など。"
         ]
     ],
     //page 240

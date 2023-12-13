@@ -1,10 +1,12 @@
-import { useParams } from "react-router-dom"
-import ancientData from "../../data/telliusLanguage.json"
 import { useEffect, useState } from "react";
-import { LessonNavigation } from "../../components/forAncientLanguage/LessonNavigation";
-import { TabDecider } from "../../components/forAncientLanguage/TabDecider";
+import { useParams } from "react-router-dom"
 
-export function Lessons() {
+import LessonNavigation from "./components/LessonNavigation";
+import TabDecider from "./components/TabDecider";
+
+import ancientData from "../../data/telliusLanguage.json"
+
+export default function Lessons() {
 
     const [currentTab, setTab] = useState('char')
 
